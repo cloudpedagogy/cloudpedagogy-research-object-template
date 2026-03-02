@@ -1,0 +1,28 @@
+---
+title: "5. Results"
+---
+
+## Purpose
+Present the findings of the analysis.
+
+## Details
+
+Cohort Summary:
+The final analytical dataset comprised 10,000 synthetic encounters. The overall missed appointment rate was 18.2%. The median age of the simulated cohort was 45 years.
+
+Logistic Regression Findings:
+- **Previous Missed Appointments**: The strongest predictor of a missed visit in the synthetic data was a history of previous missed appointments (Odds Ratio [OR] = 1.35, 95% Confidence Interval [CI] 1.28-1.43).
+- **Lead Time**: Longer lead times between scheduling and the actual appointment were moderately associated with an increased likelihood of missing the appointment (OR = 1.02 per additional day).
+- **Deprivation Quintile**: Patients situated in the most deprived synthetic quintile (Q1) exhibited a higher odds of non-attendance compared to the least deprived quintile (Q5) (OR = 1.15).
+- **Age**: Age demonstrated a minor protective effect, with older simulated patients being slightly less likely to miss appointments.
+
+::: {.callout-warning}
+Note: These results are derived from wholly synthetic data structured explicitly to exhibit these relationships for demonstration purposes. They do not represent real-world clinical findings.
+:::
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Applied Practice & Innovation:* No generative AI was used to derive these statistical results. These represent the planned output of the synthetic data generation script created during the Data phase.
+:::

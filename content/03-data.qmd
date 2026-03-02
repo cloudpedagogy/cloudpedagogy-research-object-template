@@ -1,0 +1,15 @@
+---
+title: "3. Data"
+---
+
+## Purpose
+Describe the data sources and datasets used in this research.
+
+## Details
+
+> **REPLACE THIS**: Detail the origin, structure, and pre-processing of the data. 
+
+***
+
+## AI Capability Checkpoint
+*Optional guidance: Reflect on how AI tools assisted in data collection, cleaning, or synthesis.*

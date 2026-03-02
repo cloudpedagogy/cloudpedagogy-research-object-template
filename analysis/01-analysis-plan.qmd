@@ -1,0 +1,15 @@
+---
+title: "Analysis Plan"
+---
+
+## Purpose
+Pre-register or outline the exact sequence of analytical steps.
+
+## Details
+
+> **REPLACE THIS**: Outline the analysis steps, variables to examine, and criteria for success or significance.
+
+***
+
+## AI Capability Checkpoint
+*Optional guidance: Reflect on how AI helped in drafting this plan.*

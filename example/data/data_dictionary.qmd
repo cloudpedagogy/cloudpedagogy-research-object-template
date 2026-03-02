@@ -1,0 +1,20 @@
+---
+title: "Data Dictionary"
+---
+
+## Purpose
+Define the variables, types, and expected values for the datasets used in this project.
+
+## Instructions
+The structured definitions for this project’s variables can be found in `data/codebook.csv`. 
+
+### Contextual Notes
+- **`deprivation_quintile`**: In this synthetic dataset, the quintiles were generated uniformly. In a real-world scenario, this might be derived from a patient's postcode linked to a national deprivation index.
+- **`previous_missed`**: This is a count variable simulated using a Poisson distribution.
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Awareness & Orientation:* This data dictionary format was populated with human understanding of common health services data structures. No AI was used to derive the definitions.
+:::

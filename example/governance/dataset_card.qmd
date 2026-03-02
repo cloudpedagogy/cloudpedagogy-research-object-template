@@ -1,0 +1,28 @@
+---
+title: "Dataset Card"
+---
+
+## Overview
+This is a fully synthetic dataset simulating 10,000 outpatient appointments to evaluate predictors of missed visits. It was generated specifically for the CloudPedagogy Healthcare Research Object template demonstration.
+
+## Collection Process
+- **Source**: Synthetically generated via a custom Python script.
+- **Timeframe**: Data generated on October 1, 2023, representing a simulated 12-month period.
+- **Method**: Random sampling from pre-defined statistical distributions (e.g., uniform for deprivation quintile, Poisson for previous missed visits). Associations were hard-coded into the generation script.
+
+## Pre-processing & Cleaning
+No physical cleaning was required. The generation script ensured no missing values and enforced logical constraints (e.g., `lead_time_days` > 0).
+
+## Privacy & Ethics
+- **De-identification**: Not applicable. All data is artificial. No real patients are represented.
+- **Consent**: Not applicable.
+
+## Limitations
+This dataset lacks the real-world complexity, missingness patterns, and non-linear relationships found in actual healthcare data. It cannot be used to make clinical or operational decisions.
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Ethics, Equity & Impact:* Despite being synthetic, we ensured the generated variables (like deprivation quintile) reflect common equity indicators to support robust discussion of socioeconomic factors in health modeling. AI was not used to synthesize the ethical framework, though it helped format this card.
+:::

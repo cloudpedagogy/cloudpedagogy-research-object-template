@@ -1,0 +1,8 @@
+variable_name,description,type,allowed_values
+patient_id,Unique identifier for the simulated patient,string,
+age,Simulated age of patient in years,integer,18-100
+lead_time_days,Days between booking and appointment date,integer,1-365
+appointment_type,Type of consultation,categorical,Initial; Follow-up
+previous_missed,Number of appointments missed in previous 12 months,integer,0-10
+deprivation_quintile,Socio-economic quintile (1=Most Deprived),integer,1-5
+missed_appointment,Target outcome: Did the patient miss the appointment?,boolean,TRUE; FALSE

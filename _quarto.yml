@@ -1,0 +1,88 @@
+project:
+  type: website
+  output-dir: _site
+
+metadata-files:
+  - project-metadata.yml
+
+website:
+  title: "Healthcare Research Object"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Content"
+        menu:
+          - href: content/01-research-question.qmd
+            text: "1. Research Question"
+          - href: content/02-protocol.qmd
+            text: "2. Protocol"
+          - href: content/03-data.qmd
+            text: "3. Data"
+          - href: content/04-methods.qmd
+            text: "4. Methods"
+          - href: content/05-results.qmd
+            text: "5. Results"
+          - href: content/06-interpretation.qmd
+            text: "6. Interpretation"
+          - href: content/07-limitations.qmd
+            text: "7. Limitations"
+          - href: content/08-reuse-citation.qmd
+            text: "8. Reuse & Citation"
+          - href: content/research-readiness.qmd
+            text: "Research Readiness"
+          - href: content/submission-pack.qmd
+            text: "Submission Pack"
+          - href: content/project-summary.qmd
+            text: "Project Summary"
+      - text: "Analysis"
+        menu:
+          - href: analysis/01-analysis-plan.qmd
+            text: "Analysis Plan"
+          - href: analysis/02-analysis-notes.qmd
+            text: "Analysis Notes"
+      - text: "Data"
+        menu:
+          - href: data/data_dictionary.qmd
+            text: "Data Dictionary"
+      - text: "Governance"
+        menu:
+          - href: governance/dataset_card.qmd
+            text: "Dataset Card"
+          - href: governance/model_card.qmd
+            text: "Model Card"
+          - href: governance/decision_log.md
+            text: "Decision Log"
+          - href: governance/risk_register.md
+            text: "Risk Register"
+          - href: governance/reproducibility_checklist.md
+            text: "Reproducibility Checklist"
+          - href: governance/governance-status.qmd
+            text: "Governance Status"
+      - text: "AI Support"
+        menu:
+          - href: ai-support/ai-capability-checkpoints.md
+            text: "AI Capability Checkpoints"
+          - href: ai-support/prompt-pack-critique.md
+            text: "Critique Prompts"
+          - href: ai-support/prompt-pack-ethics-equity-impact.md
+            text: "Ethics & Equity Prompts"
+          - href: ai-support/prompt-pack-governance.md
+            text: "Governance Prompts"
+          - href: ai-support/ai-disclosure-statement.qmd
+            text: "AI Disclosure Statement"
+      - text: "Deploy"
+        menu:
+          - href: deploy/github-pages.md
+            text: "GitHub Pages"
+          - href: deploy/troubleshooting.md
+            text: "Troubleshooting"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+execute:
+  warning: false
+  message: false

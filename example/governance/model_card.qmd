@@ -1,0 +1,27 @@
+---
+title: "Model Card"
+---
+
+## Overview
+A multivariable logistic regression model trained on a synthetic snapshot of 10,000 outpatient records to identify factors associated with missed appointments.
+
+## Intended Use
+- **Primary Use Cases**: Demonstration of analytical workflow within the Quarto Healthcare Research Object template.
+- **Out-of-Scope Uses**: Any clinical, operational, scheduling, or real-world predictive application. The model predicts synthetic noise and manufactured relationships.
+
+## Metrics & Performance
+- **Primary Metrics**: Odds Ratios (OR) with 95% Confidence Intervals.
+- **Performance**: Given the synthetic nature, standard discriminatory metrics (like AUC) are artificially high (~0.75) due to the programmed signal-to-noise ratio in the generation script.
+
+## Training Data
+The model was fit on the entirety of the `synthetic_healthcare_example.csv` dataset. See the Dataset Card for details.
+
+## Ethical Considerations
+While the model is synthetic, similar real-world models often risk penalizing patients living in high deprivation areas if used punitively (e.g., overbooking patients predicted to miss appointments). Interventions based on such models must focus on patient support (e.g., transport assistance) rather than penalization.
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Decision-Making & Governance:* This model card structure complies with emerging standards for algorithmic transparency. Human researchers explicitly defined the "Out-of-Scope Uses" to prevent misuse of the synthetic example.
+:::

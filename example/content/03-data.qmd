@@ -1,0 +1,26 @@
+---
+title: "3. Data"
+---
+
+## Purpose
+Describe the data sources and datasets used in this research.
+
+## Details
+
+Dataset Overview:
+The primary dataset is a single flat CSV file containing `N=10,000` synthetically generated patient outpatient records. 
+
+Source:
+The data was simulated using a custom Python script for the express purpose of demonstrating this research workflow. It does not represent any specific institution, clinic, or geography.
+
+Pre-processing:
+- `lead_time_days` was bounded between 1 and 365.
+- `deprivation_quintile` was uniformly distributed.
+- The outcome variable `missed_appointment` was synthetically weighted so that higher `previous_missed` and higher `lead_time_days` slightly increase the probability of a missed visit. Overall class balance is approximately 80% attended, 20% missed.
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Applied Practice & Innovation:* An AI coding assistant was used to rapidly generate the Python script responsible for synthesizing this dataset. The prompt specified the distribution constraints and correlation structures, which were then reviewed and tested by human researchers before final synthesis.
+:::

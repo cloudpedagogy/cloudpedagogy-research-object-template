@@ -1,0 +1,22 @@
+---
+title: "6. Interpretation"
+---
+
+## Purpose
+Synthesize the results concerning the original research question.
+
+## Details
+
+The findings from this synthetic model suggest that behavioral history (`previous_missed`) and systemic scheduling factors (`lead_time_days`) are crucial predictors of missed outpatient encounters. 
+
+Clinical Relevance:
+If these were real-world findings, they would suggest that operational interventions (such as reminder calls or dynamic scheduling) could be targeted towards appointments scheduled far in advance or towards patients with a known history of missed visits. 
+
+The observed mild socioeconomic gradient (deprivation quintile) highlights the importance of exploring structural barriers to attendance, such as transport access or work flexibility, rather than attributing "no-shows" solely to patient non-compliance.
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Decision-Making & Governance:* AI tools (specifically, an LLM) were used to draft the narrative structure of this interpretation, ensuring a professional and objective tone. However, the themes extracted and the causal relationships emphasized (e.g., structural barriers) reflect explicit human editorial decisions compliant with our study aim.
+:::

@@ -1,0 +1,25 @@
+---
+title: "8. Reuse & Citation"
+---
+
+## Purpose
+Provide instructions on how to reuse this project and cite the work.
+
+## Details
+
+This synthetic research object is provided as a demonstration template. 
+
+### Reuse
+The structure, code snippets, and synthetic data within this module are licensed under the MIT License and may be freely adapted for educational or software testing purposes.
+
+### Citation
+If you use this example to inform your own template design, please cite the parent CloudPedagogy repository.
+
+> CloudPedagogy (2026). Healthcare Research Object Template: Synthetic Example. GitHub.
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Ethics, Equity & Impact:* There are no copyright or ethical concerns regarding the reuse of this specific text, as it was heavily co-drafted with AI and contains no protected health information or proprietary institutional data.
+:::

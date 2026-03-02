@@ -1,0 +1,109 @@
+---
+title: "Submission Pack Documentation"
+---
+
+## 1. Overview
+
+This template supports structured research documentation. Before submission or review, artefacts should be exported and packaged to ensure reviewers have access to a complete, portable record of the research object. This page outlines a recommended packaging workflow.
+
+---
+
+## 2. Prerequisites
+
+Before generating PDFs or packaging a submission ZIP, ensure the following are in place:
+
+- **Quarto installed** and available on your PATH (so `quarto` runs from Terminal).
+- **PDF rendering support**:
+  - A LaTeX distribution is required to render PDFs (e.g., TinyTeX, TeX Live, or MikTeX).
+  - If LaTeX is not installed, PDF commands will fail even if HTML rendering works.
+- **Project configuration allows PDF output**:
+  - If your project is configured for HTML-only, you may need to enable PDF in `_quarto.yml` (or render individual pages to PDF explicitly).
+- **Expected files exist before zipping**:
+  - The ZIP step does not generate outputs; it only packages files you have already rendered/exported (e.g., `manuscript.pdf`, governance PDFs, `references.bib`, codebook/data dictionary).
+- **File names may differ**:
+  - Adjust command examples to match your actual output filenames and folder paths.
+
+---
+
+## 3. Generate Manuscript PDF
+
+To generate a standalone PDF of your primary manuscript (e.g., the Reuse & Citation page or the entire set of content pages), use the Quarto rendering tools from your terminal.
+
+For a specific page:
+```bash
+quarto render content/08-reuse-citation.qmd --to pdf
+```
+
+Or, to render the entire project into its configured output formats:
+```bash
+quarto render --to pdf
+```
+
+*Note: The generated PDF will typically be saved in the same directory as the source `.qmd` file or in the `_site/` directory based on your configuration. Ensure that your citation formatting and references render correctly in the output.*
+
+---
+
+## 4. Generate Governance Summary PDF
+
+It is recommended to compile a consolidated PDF of your governance artefacts to provide reviewers with a transparent view of project risks, decisions, and capabilities. 
+
+You can render individual governance documents:
+```bash
+quarto render governance/dataset_card.qmd --to pdf
+```
+
+A complete governance pack should include:
+- Dataset Card
+- Model Card
+- Risk Register
+- Decision Log
+- Reproducibility Checklist
+- AI Capability Disclosure (if used)
+
+*(Alternatively, you can create a single `governance-summary.qmd` file that includes the contents of all these artefacts and render that into a single PDF.)*
+
+---
+
+## 5. Create Submission ZIP Package
+
+Once your PDFs are generated, you should create a ZIP package containing the essential components of your research object. 
+
+Recommended contents for the package:
+- Manuscript PDF
+- Governance summary PDF
+- Data dictionary (`.qmd` or `.pdf`)
+- Codebook (`.csv`)
+- Synthetic dataset (if applicable)
+- Citation file (`references.bib`)
+- License file (`LICENSE`)
+- Project overview (`README.md`)
+
+You can create this package using your operating system's native ZIP tools (e.g., Right-click the folder $\to$ Compress), or by using the terminal:
+
+```bash
+zip submission-pack.zip manuscript.pdf governance-summary.pdf data_dictionary.qmd codebook.csv references.bib
+```
+
+---
+
+## 6. Recommended Submission Structure
+
+The ideal layout for the contents inside your ZIP package should look like this:
+
+```text
+submission-pack/
+  manuscript.pdf
+  governance-summary.pdf
+  data_dictionary.pdf
+  codebook.csv
+  synthetic_dataset.csv
+  references.bib
+  LICENSE
+  README.md
+```
+
+---
+
+## 7. Governance Statement
+
+This submission structure strengthens transparency, defensibility, and reproducibility without requiring complex infrastructure. By packaging both the narrative manuscript and the underlying governance artefacts, you ensure that the complete context of the research is preserved for review.

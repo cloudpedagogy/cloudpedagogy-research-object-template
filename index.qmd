@@ -1,0 +1,20 @@
+---
+title: "Healthcare Research Object"
+---
+
+Welcome to the Healthcare Research Object Template.
+
+This is a reusable, governance-ready research template designed to structure healthcare research from question to publication.
+
+Use the navigation bar to access the different sections of the research object:
+- **Content**: The core research narrative and findings.
+- **Analysis**: Detailed analysis plans and notes.
+- **Data**: Data dictionary and descriptions.
+- **Governance**: Essential governance artefacts, including dataset and model cards.
+- **AI Support**: Optional, non-technical scaffolds for reflecting on AI capability.
+- **Deploy**: Instructions for publishing this research object.
+
+> **REPLACE THIS**: Replace this placeholder text with an overview of your specific research project.
+
+## AI Capability Checkpoint
+*Optional guidance: Reflect on how AI tools (if any) were used in structuring your research question or establishing this project repository.*

@@ -1,0 +1,15 @@
+---
+title: "1. Research Question"
+---
+
+## Purpose
+State the primary research question and objectives of the project.
+
+## Details
+
+> **REPLACE THIS**: Describe the exact research question this work seeks to answer. Outline primary and secondary objectives.
+
+***
+
+## AI Capability Checkpoint
+*Optional guidance: Reflect on how AI capability contributed to forming this research question.*

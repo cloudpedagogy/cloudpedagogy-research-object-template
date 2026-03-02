@@ -1,0 +1,15 @@
+---
+title: "Analysis Notes"
+---
+
+## Purpose
+Maintain an ongoing log of analytical decisions, roadblocks, or changes to the plan.
+
+## Details
+
+> **REPLACE THIS**: Record notes as the analysis progresses, including why deviations from the plan occurred.
+
+***
+
+## AI Capability Checkpoint
+*Optional guidance: Reflect on whether AI tools provided debugging or implementation support during analysis.*

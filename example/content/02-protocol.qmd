@@ -1,0 +1,31 @@
+---
+title: "2. Protocol"
+---
+
+## Purpose
+Detail the experimental protocol or study design.
+
+## Details
+
+Overview of Study Design:
+This is a retrospective observational cohort study utilizing a fully synthetic, cross-sectional snapshot of ambulatory care data.
+
+Inclusion Criteria:
+- Adult simulated patients (Age $\ge$ 18).
+- Scheduled for an outpatient visit between January 1, 2023, and December 31, 2023.
+
+Exclusion Criteria:
+- Appointments cancelled with >24 hours notice (these are not considered 'missed' for the purpose of the primary outcome).
+
+Procedure:
+1. Data Extraction: Synthetic generation of the cohort dataset.
+2. Data Cleaning: Removal of logical inconsistencies (e.g., negative lead times).
+3. Exploratory Data Analysis: Assessing distributions and collinearity among predictors.
+4. Model Fitting: Logistic regression.
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Human–AI Co-Agency:* AI was used solely to draft this synthetic protocol language based on standard epidemiological study designs. Human oversight ensured the criteria aligned logically with the synthetic variables. The overall experimental design conceptually remains under human control.
+:::

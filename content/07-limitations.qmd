@@ -1,0 +1,15 @@
+---
+title: "7. Limitations"
+---
+
+## Purpose
+Acknowledge the constraints, biases, or limitations of the study.
+
+## Details
+
+> **REPLACE THIS**: Document threats to validity, potential biases in the dataset, and limitations of the methods.
+
+***
+
+## AI Capability Checkpoint
+*Optional guidance: Reflect on AI-related risks, errors, or biases introduced.*

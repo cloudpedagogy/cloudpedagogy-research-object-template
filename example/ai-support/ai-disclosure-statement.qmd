@@ -1,0 +1,14 @@
+---
+title: "AI Disclosure Statement"
+---
+
+## Disclosure
+
+Project: **{{< meta project_title >}}**  
+AI usage status: **{{< meta ai_used >}}**
+
+### Statement (template)
+
+This project may have used AI tools in limited ways (e.g., drafting support). All outputs were reviewed and validated by the research team. No sensitive or identifiable data should be shared with AI tools unless explicitly permitted by governance requirements.
+
+For structured reflection, see the AI Capability Checkpoints.

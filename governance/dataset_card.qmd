@@ -1,0 +1,26 @@
+---
+title: "Dataset Card"
+---
+
+## Overview
+
+> **REPLACE THIS**: Provide a high-level summary of the dataset, its intended use, and its origins.
+
+## Collection Process
+
+- **Source**: [REPLACE THIS]
+- **Timeframe**: [REPLACE THIS]
+- **Method**: [REPLACE THIS]
+
+## Pre-processing & Cleaning
+
+> **REPLACE THIS**: Describe what steps were taken to clean the raw data.
+
+## Privacy & Ethics
+
+- **De-identification**: [REPLACE THIS]
+- **Consent**: [REPLACE THIS]
+
+## Limitations
+
+> **REPLACE THIS**: Describe any inherent biases or limits in this dataset.

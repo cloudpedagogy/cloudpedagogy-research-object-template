@@ -1,0 +1,15 @@
+---
+title: "4. Methods"
+---
+
+## Purpose
+Explain the analytical or statistical methods applied.
+
+## Details
+
+> **REPLACE THIS**: Outline the exact techniques, algorithms, or statistical tests used.
+
+***
+
+## AI Capability Checkpoint
+*Optional guidance: Reflect on AI's role in method selection or analytical implementation.*

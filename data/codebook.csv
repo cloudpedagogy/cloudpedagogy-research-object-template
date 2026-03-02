@@ -1,0 +1,6 @@
+variable_name,description,type,allowed_values
+id,Participant identifier,string,
+age,Age at baseline,integer,18-100
+sex,Biological sex,categorical,M;F
+bmi,Body Mass Index,numeric,
+outcome,Primary outcome indicator,boolean,TRUE;FALSE

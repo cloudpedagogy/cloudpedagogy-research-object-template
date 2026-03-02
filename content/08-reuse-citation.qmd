@@ -1,0 +1,15 @@
+---
+title: "8. Reuse & Citation"
+---
+
+## Purpose
+Provide instructions on how to reuse this project and cite the work.
+
+## Details
+
+> **REPLACE THIS**: Outline the acceptable reuse cases and exact citation details.
+
+***
+
+## AI Capability Checkpoint
+*Optional guidance: Reflect on any future AI capabilities that might enable further use of this work.*

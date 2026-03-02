@@ -1,0 +1,15 @@
+---
+title: "6. Interpretation"
+---
+
+## Purpose
+Synthesize the results concerning the original research question.
+
+## Details
+
+> **REPLACE THIS**: Discuss what the results mean, their clinical relevance, and their broader implications.
+
+***
+
+## AI Capability Checkpoint
+*Optional guidance: Reflect on AI's use (if any) in synthesizing conclusions.*

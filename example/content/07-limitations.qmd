@@ -1,0 +1,20 @@
+---
+title: "7. Limitations"
+---
+
+## Purpose
+Acknowledge the constraints, biases, or limitations of the study.
+
+## Details
+
+Threats to Validity:
+1. **Synthetic Data**: The primary limitation is that all data is synthetic. The correlations between variables were deliberately injected by the data generation script rather than naturally observed.
+2. **Omitted Variable Bias**: The model lacks complex clinical variables (e.g., comorbidity indices, specific diagnoses) and detailed geospatial data (travel time to clinic), which likely confound attendance behavior in reality.
+3. **Cross-Sectional Nature**: The study takes a cross-sectional approach over a 12-month period. It cannot definitively establish causal sequences for behavioral variables.
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Reflection, Learning & Renewal:* Utilizing AI to draft limitations helped ensure standard epidemiological threats (like omitted variable bias) were articulated clearly. In future real-world studies, we would rely strictly on human methodological experts to identify contextual nuances not apparent to general-purpose AI tools.
+:::

@@ -1,0 +1,23 @@
+---
+title: "Governance Status"
+---
+
+## Status
+
+| Field | Value |
+|---|---|
+| Governance complete | {{< meta governance_complete >}} |
+| Last updated | {{< meta last_updated >}} |
+
+## Governance artefacts checklist
+
+- [ ] Dataset Card completed
+- [ ] Model Card completed
+- [ ] Risk Register filled
+- [ ] Decision Log updated
+- [ ] Reproducibility Checklist completed
+- [ ] AI Disclosure Statement completed (if applicable)
+
+::: {.callout-note}
+Tick boxes in the source file and re-render to preserve the record.
+:::

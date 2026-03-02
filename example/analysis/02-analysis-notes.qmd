@@ -1,0 +1,24 @@
+---
+title: "Analysis Notes"
+---
+
+## Purpose
+Maintain an ongoing log of analytical decisions, roadblocks, or changes to the plan.
+
+## Details
+
+**2023-10-01**:
+Commenced initial descriptive statistics on the synthetic dataset. No missing data identified (as expected, given the controlled synthetic generation process).
+
+**2023-10-05**:
+Fitted the initial multivariable logistic model. Checked VIFs; all were < 2.0, indicating no severe multicollinearity between the simulated predictors (e.g., `lead_time_days` and `previous_missed` are largely independent in this dataset).
+
+**2023-10-10**:
+Finalized the interpretation. Model results align with the original parameters programmed into the synthetic data generator.
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Applied Practice & Innovation:* During the analysis phase, an AI assistant was used momentarily to recall the exact syntax for extracting VIF scores in R (`car::vif()`). This accelerated the workflow but did not alter the analytic decisions.
+:::

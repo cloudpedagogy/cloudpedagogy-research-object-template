@@ -1,0 +1,81 @@
+---
+title: "Research Readiness Dashboard"
+---
+
+## Purpose
+Use this dashboard as a self-auditing summary to assess the structural completeness, governance readiness, AI disclosure status, and reproducibility of your research project.
+
+---
+
+## 1. Project Overview Status
+
+| Component | Status | Notes |
+| :--- | :--- | :--- |
+| **Research question clearly defined** | ☑ | Outcome defined as binary missed appointment. |
+| **Dataset described** | ☑ | Synthetic dataset fully documented in Data section. |
+| **Methods documented** | ☑ | Logistic regression model specified with equation. |
+| **Results interpreted** | ☑ | Class imbalance and interpretation discussed. |
+| **Limitations stated** | ☑ | Limitations of synthetic data acknowledged. |
+
+---
+
+## 2. Governance Completion
+
+::: {.callout-note}
+These artefacts strengthen research transparency and defensibility.
+:::
+
+- [x] Dataset Card completed
+- [x] Model Card completed
+- [x] Risk Register filled
+- [x] Decision Log updated
+- [x] Reproducibility Checklist completed
+
+*Note: All governance artefacts are available in the `governance/` directory.*
+
+---
+
+## 3. AI Disclosure & Reflection
+
+::: {.callout-note}
+AI use is **optional**. Whether used or not, human responsibility remains primary. Transparency ensures rigorous research standards.
+:::
+
+- [x] AI tools used? (Yes)
+- [x] AI Capability Checkpoints completed
+- [x] AI use documented in Decision Log
+- [x] No sensitive data shared with AI tools
+- [x] Human verification explicitly documented
+
+*Note: AI (a Large Language Model) was used for drafting assistance only, specifically to write the Python synthetic data script and critique the protocol. All outputs were reviewed and validated by the human research team. No real patient data was involved.*
+
+---
+
+## 4. Reproducibility Readiness
+
+::: {.callout-note}
+A reproducible project ensures portability, transparency, and trust in the scientific method.
+:::
+
+- [x] Data dictionary completed
+- [x] Codebook available
+- [x] Synthetic vs real data clearly stated
+- [x] Dependencies documented
+- [x] Version control in use
+- [x] Citation file included
+
+*Note: The project leverages Quarto and tracks dependencies locally. Synthetic status is explicitly stated in the README and limitations.*
+
+---
+
+## 5. Summary Readiness Indicator
+
+Use the following visual guide to interpret your total incomplete items across all checklists above.
+
+> **0 incomplete items** → Research Ready for Internal Review
+> 
+> **1–5 incomplete items** → Requires Governance Review
+> 
+> **>5 incomplete items** → Early Draft Stage
+
+**This synthetic project demonstrates full structural, governance, and AI transparency readiness within the template architecture.**

@@ -1,0 +1,41 @@
+---
+title: "4. Methods"
+---
+
+## Purpose
+Explain the analytical or statistical methods applied.
+
+## Details
+
+Statistical Analysis:
+We employ a multivariable logistic regression model to estimate the association between patient factors and the likelihood of a missed appointment.
+
+The model is defined as:
+
+$$
+\text{logit}(P(Y=1)) = \beta_0 + \beta_1(\text{age}) + \beta_2(\text{lead\_time}) + \beta_3(\text{appointment\_type}) + \beta_4(\text{previous\_missed}) + \beta_5(\text{deprivation})
+$$
+
+Where $P(Y=1)$ is the probability of a missed appointment.
+
+Example Code Implementation:
+The following is an illustrative example of the modeling code used (not executed in this document):
+
+```r
+# Fit logistic regression model
+model <- glm(missed_appointment ~ age + lead_time_days + 
+             as.factor(appointment_type) + previous_missed + 
+             as.factor(deprivation_quintile), 
+             data = synthetic_data, 
+             family = binomial(link = "logit"))
+
+# Display summary
+summary(model)
+```
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Ethics, Equity & Impact:* While AI tools assisted in drafting the model text and LaTeX equations, the selection of logistic regression was a human choice appropriate for binary outcomes. We carefully reviewed the output to ensure the equation accurately reflected the intended study variables.
+:::

@@ -1,0 +1,24 @@
+---
+title: "Model Card"
+---
+
+## Overview
+
+> **REPLACE THIS**: Provide a brief description of the model, its architecture, and its primary purpose.
+
+## Intended Use
+
+- **Primary Use Cases**: [REPLACE THIS]
+- **Out-of-Scope Uses**: [REPLACE THIS]
+
+## Metrics & Performance
+
+> **REPLACE THIS**: List the primary evaluation metrics and the model's performance on validation/test sets.
+
+## Training Data
+
+> **REPLACE THIS**: Briefly describe the data used to train the model, linking to the Dataset Card if applicable.
+
+## Ethical Considerations
+
+> **REPLACE THIS**: Detail any ethical implications, potential biases, or demographic disparities in model performance.

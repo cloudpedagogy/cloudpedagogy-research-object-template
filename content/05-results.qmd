@@ -1,0 +1,15 @@
+---
+title: "5. Results"
+---
+
+## Purpose
+Present the findings of the analysis.
+
+## Details
+
+> **REPLACE THIS**: Summarize textual, tabular, and visual results.
+
+***
+
+## AI Capability Checkpoint
+*Optional guidance: Reflect on any AI assistance in visualizing or interpreting these results.*

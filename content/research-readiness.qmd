@@ -1,0 +1,73 @@
+---
+title: "Research Readiness Dashboard"
+---
+
+## Purpose
+Use this dashboard as a self-auditing summary to assess the structural completeness, governance readiness, AI disclosure status, and reproducibility of your research project.
+
+---
+
+## 1. Project Overview Status
+
+| Component | Status | Notes |
+| :--- | :--- | :--- |
+| **Research question clearly defined** | ☐ | > REPLACE THIS: Add notes here |
+| **Dataset described** | ☐ | > REPLACE THIS: Add notes here |
+| **Methods documented** | ☐ | > REPLACE THIS: Add notes here |
+| **Results interpreted** | ☐ | > REPLACE THIS: Add notes here |
+| **Limitations stated** | ☐ | > REPLACE THIS: Add notes here |
+
+---
+
+## 2. Governance Completion
+
+::: {.callout-note}
+These artefacts strengthen research transparency and defensibility.
+:::
+
+- [ ] Dataset Card completed
+- [ ] Model Card completed
+- [ ] Risk Register filled
+- [ ] Decision Log updated
+- [ ] Reproducibility Checklist completed
+
+---
+
+## 3. AI Disclosure & Reflection
+
+::: {.callout-note}
+AI use is **optional**. Whether used or not, human responsibility remains primary. Transparency ensures rigorous research standards.
+:::
+
+- [ ] AI tools used? (Yes / No / Not Applicable)
+- [ ] AI Capability Checkpoints completed
+- [ ] AI use documented in Decision Log
+- [ ] No sensitive data shared with AI tools
+- [ ] Human verification explicitly documented
+
+---
+
+## 4. Reproducibility Readiness
+
+::: {.callout-note}
+A reproducible project ensures portability, transparency, and trust in the scientific method.
+:::
+
+- [ ] Data dictionary completed
+- [ ] Codebook available
+- [ ] Synthetic vs real data clearly stated
+- [ ] Dependencies documented
+- [ ] Version control in use
+- [ ] Citation file included
+
+---
+
+## 5. Summary Readiness Indicator
+
+Use the following visual guide to interpret your total incomplete items across all checklists above.
+
+> **0–5 incomplete items** → Research Ready for Internal Review
+> 
+> **6–10 incomplete items** → Requires Governance Review
+> 
+> **>10 incomplete items** → Early Draft Stage

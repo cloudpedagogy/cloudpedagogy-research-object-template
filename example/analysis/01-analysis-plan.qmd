@@ -1,0 +1,24 @@
+---
+title: "Analysis Plan"
+---
+
+## Purpose
+Pre-register or outline the exact sequence of analytical steps.
+
+## Details
+
+**Objective**: Model the probability of `missed_appointment = 1`.
+
+**Planned Steps**:
+1. **Data Ingestion**: Load `data/derived/synthetic_healthcare_example.csv`.
+2. **Descriptive Statistics**: Calculate missingness and distributions for all predictors.
+3. **Bivariate Analysis**: Chi-square tests for categorical predictors against the outcome; t-tests/Mann-Whitney for continuous predictors.
+4. **Multivariable Modeling**: Fit a logistic regression model including all predefined covariates (`age`, `lead_time_days`, `appointment_type`, `previous_missed`, `deprivation_quintile`).
+5. **Assumptions Check**: Assess multicollinearity using Variance Inflation Factor (VIF).
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Awareness & Orientation:* This analysis sequence reflects standard operating procedures for observational cohort data. No AI tools were needed to design these steps. We understand the limits of these methods for inferring causality.
+:::

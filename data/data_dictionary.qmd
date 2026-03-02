@@ -1,0 +1,18 @@
+---
+title: "Data Dictionary"
+---
+
+## Purpose
+Define the variables, types, and expected values for the datasets used in this project.
+
+## Instructions
+Complete the `data/codebook.csv` file. Ensure all variables used in scripts are documented there.
+
+This document serves as the human-readable explanation of that codebook.
+
+> **REPLACE THIS**: Provide any additional qualitative context about the variables that does not fit into the CSV format.
+
+***
+
+## AI Capability Checkpoint
+*Optional guidance: Reflect on AI's use in extracting or formatting this data dictionary.*

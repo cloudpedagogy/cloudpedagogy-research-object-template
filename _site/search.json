@@ -1,0 +1,1360 @@
+[
+  {
+    "objectID": "data/data_dictionary.html",
+    "href": "data/data_dictionary.html",
+    "title": "Data Dictionary",
+    "section": "",
+    "text": "Define the variables, types, and expected values for the datasets used in this project."
+  },
+  {
+    "objectID": "data/data_dictionary.html#purpose",
+    "href": "data/data_dictionary.html#purpose",
+    "title": "Data Dictionary",
+    "section": "",
+    "text": "Define the variables, types, and expected values for the datasets used in this project."
+  },
+  {
+    "objectID": "data/data_dictionary.html#instructions",
+    "href": "data/data_dictionary.html#instructions",
+    "title": "Data Dictionary",
+    "section": "Instructions",
+    "text": "Instructions\nComplete the data/codebook.csv file. Ensure all variables used in scripts are documented there.\nThis document serves as the human-readable explanation of that codebook.\n\nREPLACE THIS: Provide any additional qualitative context about the variables that does not fit into the CSV format."
+  },
+  {
+    "objectID": "data/data_dictionary.html#ai-capability-checkpoint",
+    "href": "data/data_dictionary.html#ai-capability-checkpoint",
+    "title": "Data Dictionary",
+    "section": "AI Capability Checkpoint",
+    "text": "AI Capability Checkpoint\nOptional guidance: Reflect on AI’s use in extracting or formatting this data dictionary."
+  },
+  {
+    "objectID": "governance/reproducibility_checklist.html",
+    "href": "governance/reproducibility_checklist.html",
+    "title": "Reproducibility Checklist",
+    "section": "",
+    "text": "Reproducibility Checklist\nUse this checklist to ensure the project can be independently reproduced.\n\nAll raw data sources are documented or provided (where legally/ethically permitted).\nData cleaning and preprocessing scripts are included and documented.\nThe computational environment (e.g., packages, versions) is documented.\nAll analysis scripts are included and use relative paths.\nRandom seeds are set where stochastic processes are used.\nInstructions for running the analysis pipeline from start to finish are clear."
+  },
+  {
+    "objectID": "governance/dataset_card.html",
+    "href": "governance/dataset_card.html",
+    "title": "Dataset Card",
+    "section": "",
+    "text": "REPLACE THIS: Provide a high-level summary of the dataset, its intended use, and its origins."
+  },
+  {
+    "objectID": "governance/dataset_card.html#overview",
+    "href": "governance/dataset_card.html#overview",
+    "title": "Dataset Card",
+    "section": "",
+    "text": "REPLACE THIS: Provide a high-level summary of the dataset, its intended use, and its origins."
+  },
+  {
+    "objectID": "governance/dataset_card.html#collection-process",
+    "href": "governance/dataset_card.html#collection-process",
+    "title": "Dataset Card",
+    "section": "Collection Process",
+    "text": "Collection Process\n\nSource: [REPLACE THIS]\nTimeframe: [REPLACE THIS]\nMethod: [REPLACE THIS]"
+  },
+  {
+    "objectID": "governance/dataset_card.html#pre-processing-cleaning",
+    "href": "governance/dataset_card.html#pre-processing-cleaning",
+    "title": "Dataset Card",
+    "section": "Pre-processing & Cleaning",
+    "text": "Pre-processing & Cleaning\n\nREPLACE THIS: Describe what steps were taken to clean the raw data."
+  },
+  {
+    "objectID": "governance/dataset_card.html#privacy-ethics",
+    "href": "governance/dataset_card.html#privacy-ethics",
+    "title": "Dataset Card",
+    "section": "Privacy & Ethics",
+    "text": "Privacy & Ethics\n\nDe-identification: [REPLACE THIS]\nConsent: [REPLACE THIS]"
+  },
+  {
+    "objectID": "governance/dataset_card.html#limitations",
+    "href": "governance/dataset_card.html#limitations",
+    "title": "Dataset Card",
+    "section": "Limitations",
+    "text": "Limitations\n\nREPLACE THIS: Describe any inherent biases or limits in this dataset."
+  },
+  {
+    "objectID": "governance/governance-status.html",
+    "href": "governance/governance-status.html",
+    "title": "Governance Status",
+    "section": "",
+    "text": "Field\nValue\n\n\n\n\nGovernance complete\nNot specified\n\n\nLast updated\nREPLACE THIS: YYYY-MM-DD"
+  },
+  {
+    "objectID": "governance/governance-status.html#status",
+    "href": "governance/governance-status.html#status",
+    "title": "Governance Status",
+    "section": "",
+    "text": "Field\nValue\n\n\n\n\nGovernance complete\nNot specified\n\n\nLast updated\nREPLACE THIS: YYYY-MM-DD"
+  },
+  {
+    "objectID": "governance/governance-status.html#governance-artefacts-checklist",
+    "href": "governance/governance-status.html#governance-artefacts-checklist",
+    "title": "Governance Status",
+    "section": "Governance artefacts checklist",
+    "text": "Governance artefacts checklist\n\nDataset Card completed\nModel Card completed\nRisk Register filled\nDecision Log updated\nReproducibility Checklist completed\nAI Disclosure Statement completed (if applicable)\n\n\n\n\n\n\n\nNote\n\n\n\nTick boxes in the source file and re-render to preserve the record."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Healthcare Research Object",
+    "section": "",
+    "text": "Welcome to the Healthcare Research Object Template.\nThis is a reusable, governance-ready research template designed to structure healthcare research from question to publication.\nUse the navigation bar to access the different sections of the research object: - Content: The core research narrative and findings. - Analysis: Detailed analysis plans and notes. - Data: Data dictionary and descriptions. - Governance: Essential governance artefacts, including dataset and model cards. - AI Support: Optional, non-technical scaffolds for reflecting on AI capability. - Deploy: Instructions for publishing this research object."
+  },
+  {
+    "objectID": "index.html#ai-capability-checkpoint",
+    "href": "index.html#ai-capability-checkpoint",
+    "title": "Healthcare Research Object",
+    "section": "AI Capability Checkpoint",
+    "text": "AI Capability Checkpoint\nOptional guidance: Reflect on how AI tools (if any) were used in structuring your research question or establishing this project repository."
+  },
+  {
+    "objectID": "content/02-protocol.html",
+    "href": "content/02-protocol.html",
+    "title": "2. Protocol",
+    "section": "",
+    "text": "Detail the experimental protocol or study design."
+  },
+  {
+    "objectID": "content/02-protocol.html#purpose",
+    "href": "content/02-protocol.html#purpose",
+    "title": "2. Protocol",
+    "section": "",
+    "text": "Detail the experimental protocol or study design."
+  },
+  {
+    "objectID": "content/02-protocol.html#details",
+    "href": "content/02-protocol.html#details",
+    "title": "2. Protocol",
+    "section": "Details",
+    "text": "Details\n\nREPLACE THIS: Document the steps, procedures, and methodological approach planned for this project."
+  },
+  {
+    "objectID": "content/02-protocol.html#ai-capability-checkpoint",
+    "href": "content/02-protocol.html#ai-capability-checkpoint",
+    "title": "2. Protocol",
+    "section": "AI Capability Checkpoint",
+    "text": "AI Capability Checkpoint\nOptional guidance: Reflect on whether AI tools were involved in designing the protocol."
+  },
+  {
+    "objectID": "content/submission-pack.html",
+    "href": "content/submission-pack.html",
+    "title": "Submission Pack Documentation",
+    "section": "",
+    "text": "This template supports structured research documentation. Before submission or review, artefacts should be exported and packaged to ensure reviewers have access to a complete, portable record of the research object. This page outlines a recommended packaging workflow."
+  },
+  {
+    "objectID": "content/submission-pack.html#overview",
+    "href": "content/submission-pack.html#overview",
+    "title": "Submission Pack Documentation",
+    "section": "",
+    "text": "This template supports structured research documentation. Before submission or review, artefacts should be exported and packaged to ensure reviewers have access to a complete, portable record of the research object. This page outlines a recommended packaging workflow."
+  },
+  {
+    "objectID": "content/submission-pack.html#prerequisites",
+    "href": "content/submission-pack.html#prerequisites",
+    "title": "Submission Pack Documentation",
+    "section": "2. Prerequisites",
+    "text": "2. Prerequisites\nBefore generating PDFs or packaging a submission ZIP, ensure the following are in place:\n\nQuarto installed and available on your PATH (so quarto runs from Terminal).\nPDF rendering support:\n\nA LaTeX distribution is required to render PDFs (e.g., TinyTeX, TeX Live, or MikTeX).\nIf LaTeX is not installed, PDF commands will fail even if HTML rendering works.\n\nProject configuration allows PDF output:\n\nIf your project is configured for HTML-only, you may need to enable PDF in _quarto.yml (or render individual pages to PDF explicitly).\n\nExpected files exist before zipping:\n\nThe ZIP step does not generate outputs; it only packages files you have already rendered/exported (e.g., manuscript.pdf, governance PDFs, references.bib, codebook/data dictionary).\n\nFile names may differ:\n\nAdjust command examples to match your actual output filenames and folder paths."
+  },
+  {
+    "objectID": "content/submission-pack.html#generate-manuscript-pdf",
+    "href": "content/submission-pack.html#generate-manuscript-pdf",
+    "title": "Submission Pack Documentation",
+    "section": "3. Generate Manuscript PDF",
+    "text": "3. Generate Manuscript PDF\nTo generate a standalone PDF of your primary manuscript (e.g., the Reuse & Citation page or the entire set of content pages), use the Quarto rendering tools from your terminal.\nFor a specific page:\nquarto render content/08-reuse-citation.qmd --to pdf\nOr, to render the entire project into its configured output formats:\nquarto render --to pdf\nNote: The generated PDF will typically be saved in the same directory as the source .qmd file or in the _site/ directory based on your configuration. Ensure that your citation formatting and references render correctly in the output."
+  },
+  {
+    "objectID": "content/submission-pack.html#generate-governance-summary-pdf",
+    "href": "content/submission-pack.html#generate-governance-summary-pdf",
+    "title": "Submission Pack Documentation",
+    "section": "4. Generate Governance Summary PDF",
+    "text": "4. Generate Governance Summary PDF\nIt is recommended to compile a consolidated PDF of your governance artefacts to provide reviewers with a transparent view of project risks, decisions, and capabilities.\nYou can render individual governance documents:\nquarto render governance/dataset_card.qmd --to pdf\nA complete governance pack should include: - Dataset Card - Model Card - Risk Register - Decision Log - Reproducibility Checklist - AI Capability Disclosure (if used)\n(Alternatively, you can create a single governance-summary.qmd file that includes the contents of all these artefacts and render that into a single PDF.)"
+  },
+  {
+    "objectID": "content/submission-pack.html#create-submission-zip-package",
+    "href": "content/submission-pack.html#create-submission-zip-package",
+    "title": "Submission Pack Documentation",
+    "section": "5. Create Submission ZIP Package",
+    "text": "5. Create Submission ZIP Package\nOnce your PDFs are generated, you should create a ZIP package containing the essential components of your research object.\nRecommended contents for the package: - Manuscript PDF - Governance summary PDF - Data dictionary (.qmd or .pdf) - Codebook (.csv) - Synthetic dataset (if applicable) - Citation file (references.bib) - License file (LICENSE) - Project overview (README.md)\nYou can create this package using your operating system’s native ZIP tools (e.g., Right-click the folder \\(\\to\\) Compress), or by using the terminal:\nzip submission-pack.zip manuscript.pdf governance-summary.pdf data_dictionary.qmd codebook.csv references.bib"
+  },
+  {
+    "objectID": "content/submission-pack.html#recommended-submission-structure",
+    "href": "content/submission-pack.html#recommended-submission-structure",
+    "title": "Submission Pack Documentation",
+    "section": "6. Recommended Submission Structure",
+    "text": "6. Recommended Submission Structure\nThe ideal layout for the contents inside your ZIP package should look like this:\nsubmission-pack/\n  manuscript.pdf\n  governance-summary.pdf\n  data_dictionary.pdf\n  codebook.csv\n  synthetic_dataset.csv\n  references.bib\n  LICENSE\n  README.md"
+  },
+  {
+    "objectID": "content/submission-pack.html#governance-statement",
+    "href": "content/submission-pack.html#governance-statement",
+    "title": "Submission Pack Documentation",
+    "section": "7. Governance Statement",
+    "text": "7. Governance Statement\nThis submission structure strengthens transparency, defensibility, and reproducibility without requiring complex infrastructure. By packaging both the narrative manuscript and the underlying governance artefacts, you ensure that the complete context of the research is preserved for review."
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Content Overview",
+    "section": "",
+    "text": "This section contains the core narrative of the research project, from the initial question to the final interpretation.\n\nREPLACE THIS: Briefly summarize the purpose of this section."
+  },
+  {
+    "objectID": "content/01-research-question.html",
+    "href": "content/01-research-question.html",
+    "title": "1. Research Question",
+    "section": "",
+    "text": "State the primary research question and objectives of the project."
+  },
+  {
+    "objectID": "content/01-research-question.html#purpose",
+    "href": "content/01-research-question.html#purpose",
+    "title": "1. Research Question",
+    "section": "",
+    "text": "State the primary research question and objectives of the project."
+  },
+  {
+    "objectID": "content/01-research-question.html#details",
+    "href": "content/01-research-question.html#details",
+    "title": "1. Research Question",
+    "section": "Details",
+    "text": "Details\n\nREPLACE THIS: Describe the exact research question this work seeks to answer. Outline primary and secondary objectives."
+  },
+  {
+    "objectID": "content/01-research-question.html#ai-capability-checkpoint",
+    "href": "content/01-research-question.html#ai-capability-checkpoint",
+    "title": "1. Research Question",
+    "section": "AI Capability Checkpoint",
+    "text": "AI Capability Checkpoint\nOptional guidance: Reflect on how AI capability contributed to forming this research question."
+  },
+  {
+    "objectID": "content/research-readiness.html",
+    "href": "content/research-readiness.html",
+    "title": "Research Readiness Dashboard",
+    "section": "",
+    "text": "Use this dashboard as a self-auditing summary to assess the structural completeness, governance readiness, AI disclosure status, and reproducibility of your research project."
+  },
+  {
+    "objectID": "content/research-readiness.html#purpose",
+    "href": "content/research-readiness.html#purpose",
+    "title": "Research Readiness Dashboard",
+    "section": "",
+    "text": "Use this dashboard as a self-auditing summary to assess the structural completeness, governance readiness, AI disclosure status, and reproducibility of your research project."
+  },
+  {
+    "objectID": "content/research-readiness.html#project-overview-status",
+    "href": "content/research-readiness.html#project-overview-status",
+    "title": "Research Readiness Dashboard",
+    "section": "1. Project Overview Status",
+    "text": "1. Project Overview Status\n\n\n\n\n\n\n\n\nComponent\nStatus\nNotes\n\n\n\n\nResearch question clearly defined\n☐\n&gt; REPLACE THIS: Add notes here\n\n\nDataset described\n☐\n&gt; REPLACE THIS: Add notes here\n\n\nMethods documented\n☐\n&gt; REPLACE THIS: Add notes here\n\n\nResults interpreted\n☐\n&gt; REPLACE THIS: Add notes here\n\n\nLimitations stated\n☐\n&gt; REPLACE THIS: Add notes here"
+  },
+  {
+    "objectID": "content/research-readiness.html#governance-completion",
+    "href": "content/research-readiness.html#governance-completion",
+    "title": "Research Readiness Dashboard",
+    "section": "2. Governance Completion",
+    "text": "2. Governance Completion\n\n\n\n\n\n\nNote\n\n\n\nThese artefacts strengthen research transparency and defensibility.\n\n\n\nDataset Card completed\nModel Card completed\nRisk Register filled\nDecision Log updated\nReproducibility Checklist completed"
+  },
+  {
+    "objectID": "content/research-readiness.html#ai-disclosure-reflection",
+    "href": "content/research-readiness.html#ai-disclosure-reflection",
+    "title": "Research Readiness Dashboard",
+    "section": "3. AI Disclosure & Reflection",
+    "text": "3. AI Disclosure & Reflection\n\n\n\n\n\n\nNote\n\n\n\nAI use is optional. Whether used or not, human responsibility remains primary. Transparency ensures rigorous research standards.\n\n\n\nAI tools used? (Yes / No / Not Applicable)\nAI Capability Checkpoints completed\nAI use documented in Decision Log\nNo sensitive data shared with AI tools\nHuman verification explicitly documented"
+  },
+  {
+    "objectID": "content/research-readiness.html#reproducibility-readiness",
+    "href": "content/research-readiness.html#reproducibility-readiness",
+    "title": "Research Readiness Dashboard",
+    "section": "4. Reproducibility Readiness",
+    "text": "4. Reproducibility Readiness\n\n\n\n\n\n\nNote\n\n\n\nA reproducible project ensures portability, transparency, and trust in the scientific method.\n\n\n\nData dictionary completed\nCodebook available\nSynthetic vs real data clearly stated\nDependencies documented\nVersion control in use\nCitation file included"
+  },
+  {
+    "objectID": "content/research-readiness.html#summary-readiness-indicator",
+    "href": "content/research-readiness.html#summary-readiness-indicator",
+    "title": "Research Readiness Dashboard",
+    "section": "5. Summary Readiness Indicator",
+    "text": "5. Summary Readiness Indicator\nUse the following visual guide to interpret your total incomplete items across all checklists above.\n\n0–5 incomplete items → Research Ready for Internal Review\n6–10 incomplete items → Requires Governance Review\n&gt;10 incomplete items → Early Draft Stage"
+  },
+  {
+    "objectID": "content/03-data.html",
+    "href": "content/03-data.html",
+    "title": "3. Data",
+    "section": "",
+    "text": "Describe the data sources and datasets used in this research."
+  },
+  {
+    "objectID": "content/03-data.html#purpose",
+    "href": "content/03-data.html#purpose",
+    "title": "3. Data",
+    "section": "",
+    "text": "Describe the data sources and datasets used in this research."
+  },
+  {
+    "objectID": "content/03-data.html#details",
+    "href": "content/03-data.html#details",
+    "title": "3. Data",
+    "section": "Details",
+    "text": "Details\n\nREPLACE THIS: Detail the origin, structure, and pre-processing of the data."
+  },
+  {
+    "objectID": "content/03-data.html#ai-capability-checkpoint",
+    "href": "content/03-data.html#ai-capability-checkpoint",
+    "title": "3. Data",
+    "section": "AI Capability Checkpoint",
+    "text": "AI Capability Checkpoint\nOptional guidance: Reflect on how AI tools assisted in data collection, cleaning, or synthesis."
+  },
+  {
+    "objectID": "ai-support/prompt-pack-governance.html",
+    "href": "ai-support/prompt-pack-governance.html",
+    "title": "Prompt Pack: Governance",
+    "section": "",
+    "text": "Use these prompts to assist in completing governance documentation.\n\n\n“Based on the following methodological summary, help me draft the ‘Intended Use’ and ‘Ethical Considerations’ sections of a Model Card. Ensure the language is neutral and objective.”\n[Paste summary here]\n\n\n\n“I am conducting a healthcare data analysis project involving [Data Type] and [Analysis Method]. Generate a list of 5 common project risks (data, methodological, and operational) and suggest a mitigation strategy for each.”"
+  },
+  {
+    "objectID": "ai-support/prompt-pack-governance.html#prompt-1-model-card-drafting",
+    "href": "ai-support/prompt-pack-governance.html#prompt-1-model-card-drafting",
+    "title": "Prompt Pack: Governance",
+    "section": "",
+    "text": "“Based on the following methodological summary, help me draft the ‘Intended Use’ and ‘Ethical Considerations’ sections of a Model Card. Ensure the language is neutral and objective.”\n[Paste summary here]"
+  },
+  {
+    "objectID": "ai-support/prompt-pack-governance.html#prompt-2-risk-register-brainstorming",
+    "href": "ai-support/prompt-pack-governance.html#prompt-2-risk-register-brainstorming",
+    "title": "Prompt Pack: Governance",
+    "section": "",
+    "text": "“I am conducting a healthcare data analysis project involving [Data Type] and [Analysis Method]. Generate a list of 5 common project risks (data, methodological, and operational) and suggest a mitigation strategy for each.”"
+  },
+  {
+    "objectID": "ai-support/prompt-pack-critique.html",
+    "href": "ai-support/prompt-pack-critique.html",
+    "title": "Prompt Pack: Critique",
+    "section": "",
+    "text": "Use these prompts with conversational AI (e.g., ChatGPT, Claude) to critique your research design, writing, or analysis plans. Do not input sensitive or non-public data.\n\n\n“Please review the following research protocol for methodological weaknesses, potential confounders, and clarity. Assume the role of a peer reviewer specializing in [Field].”\n[Paste generic protocol here]\n\n\n\n“Identify sections of the following text that are overly complex, ambiguous, or poorly structured. Suggest specific improvements for readability without changing the academic tone.”\n[Paste text here]"
+  },
+  {
+    "objectID": "ai-support/prompt-pack-critique.html#prompt-1-protocol-critique",
+    "href": "ai-support/prompt-pack-critique.html#prompt-1-protocol-critique",
+    "title": "Prompt Pack: Critique",
+    "section": "",
+    "text": "“Please review the following research protocol for methodological weaknesses, potential confounders, and clarity. Assume the role of a peer reviewer specializing in [Field].”\n[Paste generic protocol here]"
+  },
+  {
+    "objectID": "ai-support/prompt-pack-critique.html#prompt-2-writing-clarity",
+    "href": "ai-support/prompt-pack-critique.html#prompt-2-writing-clarity",
+    "title": "Prompt Pack: Critique",
+    "section": "",
+    "text": "“Identify sections of the following text that are overly complex, ambiguous, or poorly structured. Suggest specific improvements for readability without changing the academic tone.”\n[Paste text here]"
+  },
+  {
+    "objectID": "deploy/github-pages.html",
+    "href": "deploy/github-pages.html",
+    "title": "Deploying to GitHub Pages",
+    "section": "",
+    "text": "Deploying to GitHub Pages\nTo deploy this Quarto website to GitHub Pages:\n\nCreate a GitHub repository and push this project to it.\nIn your terminal, ensure you have committed all changes.\nRun the following command:\nquarto publish gh-pages\nQuarto will build the site, create a gh-pages branch, and push the static assets.\nIn your GitHub repository settings, ensure Pages is set to deploy from the gh-pages branch."
+  },
+  {
+    "objectID": "example/data/data_dictionary.html",
+    "href": "example/data/data_dictionary.html",
+    "title": "Data Dictionary",
+    "section": "",
+    "text": "Define the variables, types, and expected values for the datasets used in this project."
+  },
+  {
+    "objectID": "example/data/data_dictionary.html#purpose",
+    "href": "example/data/data_dictionary.html#purpose",
+    "title": "Data Dictionary",
+    "section": "",
+    "text": "Define the variables, types, and expected values for the datasets used in this project."
+  },
+  {
+    "objectID": "example/data/data_dictionary.html#instructions",
+    "href": "example/data/data_dictionary.html#instructions",
+    "title": "Data Dictionary",
+    "section": "Instructions",
+    "text": "Instructions\nThe structured definitions for this project’s variables can be found in data/codebook.csv.\n\nContextual Notes\n\ndeprivation_quintile: In this synthetic dataset, the quintiles were generated uniformly. In a real-world scenario, this might be derived from a patient’s postcode linked to a national deprivation index.\nprevious_missed: This is a count variable simulated using a Poisson distribution.\n\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nAwareness & Orientation: This data dictionary format was populated with human understanding of common health services data structures. No AI was used to derive the definitions."
+  },
+  {
+    "objectID": "example/governance/model_card.html",
+    "href": "example/governance/model_card.html",
+    "title": "Model Card",
+    "section": "",
+    "text": "A multivariable logistic regression model trained on a synthetic snapshot of 10,000 outpatient records to identify factors associated with missed appointments."
+  },
+  {
+    "objectID": "example/governance/model_card.html#overview",
+    "href": "example/governance/model_card.html#overview",
+    "title": "Model Card",
+    "section": "",
+    "text": "A multivariable logistic regression model trained on a synthetic snapshot of 10,000 outpatient records to identify factors associated with missed appointments."
+  },
+  {
+    "objectID": "example/governance/model_card.html#intended-use",
+    "href": "example/governance/model_card.html#intended-use",
+    "title": "Model Card",
+    "section": "Intended Use",
+    "text": "Intended Use\n\nPrimary Use Cases: Demonstration of analytical workflow within the Quarto Healthcare Research Object template.\nOut-of-Scope Uses: Any clinical, operational, scheduling, or real-world predictive application. The model predicts synthetic noise and manufactured relationships."
+  },
+  {
+    "objectID": "example/governance/model_card.html#metrics-performance",
+    "href": "example/governance/model_card.html#metrics-performance",
+    "title": "Model Card",
+    "section": "Metrics & Performance",
+    "text": "Metrics & Performance\n\nPrimary Metrics: Odds Ratios (OR) with 95% Confidence Intervals.\nPerformance: Given the synthetic nature, standard discriminatory metrics (like AUC) are artificially high (~0.75) due to the programmed signal-to-noise ratio in the generation script."
+  },
+  {
+    "objectID": "example/governance/model_card.html#training-data",
+    "href": "example/governance/model_card.html#training-data",
+    "title": "Model Card",
+    "section": "Training Data",
+    "text": "Training Data\nThe model was fit on the entirety of the synthetic_healthcare_example.csv dataset. See the Dataset Card for details."
+  },
+  {
+    "objectID": "example/governance/model_card.html#ethical-considerations",
+    "href": "example/governance/model_card.html#ethical-considerations",
+    "title": "Model Card",
+    "section": "Ethical Considerations",
+    "text": "Ethical Considerations\nWhile the model is synthetic, similar real-world models often risk penalizing patients living in high deprivation areas if used punitively (e.g., overbooking patients predicted to miss appointments). Interventions based on such models must focus on patient support (e.g., transport assistance) rather than penalization.\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nDecision-Making & Governance: This model card structure complies with emerging standards for algorithmic transparency. Human researchers explicitly defined the “Out-of-Scope Uses” to prevent misuse of the synthetic example."
+  },
+  {
+    "objectID": "example/governance/decision_log.html",
+    "href": "example/governance/decision_log.html",
+    "title": "Decision Log",
+    "section": "",
+    "text": "Track significant methodological, data, and analytical decisions that impact the research outcomes.\n\n\n\nDate: YYYY-MM-DD\nDecision: [What was decided]\nRationale: [Why it was decided, including alternatives considered]\nImpact: [Expected impact on the project]\n\n\n\nDate: 2023-09-25\nDecision: Generate exactly N=10,000 synthetic records.\nRationale: This size is large enough to demonstrate stable logistic regression coefficients without causing long loading or rendering times for the Quarto website.\nImpact: Ensures the demonstration repository remains lightweight and responsive.\nDate: 2023-09-26\nDecision: Utilise logistic regression instead of a more complex machine learning classifier (e.g., Random Forest).\nRationale: Logistic regression provides easily interpretable Odds Ratios, which are standard in epidemiological literature and easier to interpret in a demonstration context.\nImpact: Prioritizes explainability over raw predictive power for this educational synthetic example."
+  },
+  {
+    "objectID": "example/governance/decision_log.html#format",
+    "href": "example/governance/decision_log.html#format",
+    "title": "Decision Log",
+    "section": "",
+    "text": "Date: YYYY-MM-DD\nDecision: [What was decided]\nRationale: [Why it was decided, including alternatives considered]\nImpact: [Expected impact on the project]\n\n\n\nDate: 2023-09-25\nDecision: Generate exactly N=10,000 synthetic records.\nRationale: This size is large enough to demonstrate stable logistic regression coefficients without causing long loading or rendering times for the Quarto website.\nImpact: Ensures the demonstration repository remains lightweight and responsive.\nDate: 2023-09-26\nDecision: Utilise logistic regression instead of a more complex machine learning classifier (e.g., Random Forest).\nRationale: Logistic regression provides easily interpretable Odds Ratios, which are standard in epidemiological literature and easier to interpret in a demonstration context.\nImpact: Prioritizes explainability over raw predictive power for this educational synthetic example."
+  },
+  {
+    "objectID": "example/governance/risk_register.html",
+    "href": "example/governance/risk_register.html",
+    "title": "Risk Register",
+    "section": "",
+    "text": "Identify, track, and mitigate project risks (e.g., data privacy leaks, biased outcomes, delays).\n\n\n\nDate Identified: YYYY-MM-DD\nRisk Description: [What could go wrong]\nLikelihood: [Low/Medium/High]\nImpact: [Low/Medium/High]\nMitigation Strategy: [How this will be prevented or addressed]\n\n\n\nDate Identified: 2023-09-20\nRisk Description: Readers may mistake the synthetic example results for real clinical findings and attempt to implement corresponding operational changes.\nLikelihood: Low\nImpact: High\nMitigation Strategy: Include bold, highly visible warnings across the index.qmd, README.md, results.qmd, and the Model Card explicitly stating the data is synthetic.\nDate Identified: 2023-09-22\nRisk Description: The synthetic data generation script may accidentally replicate an identifiable statistical fingerprint of the researcher’s home institution if based too closely on memory rather than abstract distributions.\nLikelihood: Low\nImpact: Medium\nMitigation Strategy: Abstract all variables to generic integers/factors and use standard, uncalibrated uniform/poisson distributions without attempting to match local population baselines exactly."
+  },
+  {
+    "objectID": "example/governance/risk_register.html#format",
+    "href": "example/governance/risk_register.html#format",
+    "title": "Risk Register",
+    "section": "",
+    "text": "Date Identified: YYYY-MM-DD\nRisk Description: [What could go wrong]\nLikelihood: [Low/Medium/High]\nImpact: [Low/Medium/High]\nMitigation Strategy: [How this will be prevented or addressed]\n\n\n\nDate Identified: 2023-09-20\nRisk Description: Readers may mistake the synthetic example results for real clinical findings and attempt to implement corresponding operational changes.\nLikelihood: Low\nImpact: High\nMitigation Strategy: Include bold, highly visible warnings across the index.qmd, README.md, results.qmd, and the Model Card explicitly stating the data is synthetic.\nDate Identified: 2023-09-22\nRisk Description: The synthetic data generation script may accidentally replicate an identifiable statistical fingerprint of the researcher’s home institution if based too closely on memory rather than abstract distributions.\nLikelihood: Low\nImpact: Medium\nMitigation Strategy: Abstract all variables to generic integers/factors and use standard, uncalibrated uniform/poisson distributions without attempting to match local population baselines exactly."
+  },
+  {
+    "objectID": "example/content/08-reuse-citation.html",
+    "href": "example/content/08-reuse-citation.html",
+    "title": "8. Reuse & Citation",
+    "section": "",
+    "text": "Provide instructions on how to reuse this project and cite the work."
+  },
+  {
+    "objectID": "example/content/08-reuse-citation.html#purpose",
+    "href": "example/content/08-reuse-citation.html#purpose",
+    "title": "8. Reuse & Citation",
+    "section": "",
+    "text": "Provide instructions on how to reuse this project and cite the work."
+  },
+  {
+    "objectID": "example/content/08-reuse-citation.html#details",
+    "href": "example/content/08-reuse-citation.html#details",
+    "title": "8. Reuse & Citation",
+    "section": "Details",
+    "text": "Details\nThis synthetic research object is provided as a demonstration template.\n\nReuse\nThe structure, code snippets, and synthetic data within this module are licensed under the MIT License and may be freely adapted for educational or software testing purposes.\n\n\nCitation\nIf you use this example to inform your own template design, please cite the parent CloudPedagogy repository.\n\nCloudPedagogy (2026). Healthcare Research Object Template: Synthetic Example. GitHub.\n\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nEthics, Equity & Impact: There are no copyright or ethical concerns regarding the reuse of this specific text, as it was heavily co-drafted with AI and contains no protected health information or proprietary institutional data."
+  },
+  {
+    "objectID": "example/content/06-interpretation.html",
+    "href": "example/content/06-interpretation.html",
+    "title": "6. Interpretation",
+    "section": "",
+    "text": "Synthesize the results concerning the original research question."
+  },
+  {
+    "objectID": "example/content/06-interpretation.html#purpose",
+    "href": "example/content/06-interpretation.html#purpose",
+    "title": "6. Interpretation",
+    "section": "",
+    "text": "Synthesize the results concerning the original research question."
+  },
+  {
+    "objectID": "example/content/06-interpretation.html#details",
+    "href": "example/content/06-interpretation.html#details",
+    "title": "6. Interpretation",
+    "section": "Details",
+    "text": "Details\nThe findings from this synthetic model suggest that behavioral history (previous_missed) and systemic scheduling factors (lead_time_days) are crucial predictors of missed outpatient encounters.\nClinical Relevance: If these were real-world findings, they would suggest that operational interventions (such as reminder calls or dynamic scheduling) could be targeted towards appointments scheduled far in advance or towards patients with a known history of missed visits.\nThe observed mild socioeconomic gradient (deprivation quintile) highlights the importance of exploring structural barriers to attendance, such as transport access or work flexibility, rather than attributing “no-shows” solely to patient non-compliance.\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nDecision-Making & Governance: AI tools (specifically, an LLM) were used to draft the narrative structure of this interpretation, ensuring a professional and objective tone. However, the themes extracted and the causal relationships emphasized (e.g., structural barriers) reflect explicit human editorial decisions compliant with our study aim."
+  },
+  {
+    "objectID": "example/content/project-summary.html",
+    "href": "example/content/project-summary.html",
+    "title": "Project Summary",
+    "section": "",
+    "text": "This page summarises key project metadata. Update values in project-metadata.yml and re-render.\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nProject title\nREPLACE THIS: Project Title\n\n\nLead author\nREPLACE THIS: Lead Author\n\n\nVersion\n0.1\n\n\nAI used\nNot specified\n\n\nGovernance complete\nNot specified\n\n\nReproducibility ready\nNot specified\n\n\nLast updated\nREPLACE THIS: YYYY-MM-DD\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a static summary populated at render time from project-metadata.yml."
+  },
+  {
+    "objectID": "example/content/project-summary.html#overview",
+    "href": "example/content/project-summary.html#overview",
+    "title": "Project Summary",
+    "section": "",
+    "text": "This page summarises key project metadata. Update values in project-metadata.yml and re-render.\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nProject title\nREPLACE THIS: Project Title\n\n\nLead author\nREPLACE THIS: Lead Author\n\n\nVersion\n0.1\n\n\nAI used\nNot specified\n\n\nGovernance complete\nNot specified\n\n\nReproducibility ready\nNot specified\n\n\nLast updated\nREPLACE THIS: YYYY-MM-DD\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a static summary populated at render time from project-metadata.yml."
+  },
+  {
+    "objectID": "example/content/01-research-question.html",
+    "href": "example/content/01-research-question.html",
+    "title": "1. Research Question",
+    "section": "",
+    "text": "State the primary research question and objectives of the project."
+  },
+  {
+    "objectID": "example/content/01-research-question.html#purpose",
+    "href": "example/content/01-research-question.html#purpose",
+    "title": "1. Research Question",
+    "section": "",
+    "text": "State the primary research question and objectives of the project."
+  },
+  {
+    "objectID": "example/content/01-research-question.html#details",
+    "href": "example/content/01-research-question.html#details",
+    "title": "1. Research Question",
+    "section": "Details",
+    "text": "Details\nPrimary Research Question: What patient and system factors predict the likelihood of a missed outpatient appointment in adult ambulatory care settings?\nStudy Aim: To develop an exploratory logistic regression model identifying the strength of association between historical missed appointments, socio-demographic indicators (deprivation quintile), appointment characteristics (lead time, appointment type), and the outcome of a missed scheduled visit.\nPrimary Outcome: - missed_appointment: Binary outcome (0 = Attended or Cancelled appropriately, 1 = Did Not Attend/Missed).\nKey Predictors of Interest: - age: Patient age in years. - lead_time_days: Days between scheduling the appointment and the appointment date. - appointment_type: Type of consultation (e.g., Initial, Follow-up, Routine). - previous_missed: Count of missed appointments in the previous 12 months. - deprivation_quintile: Socio-economic status indicator (1 = Most deprived, 5 = Least deprived).\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nAwareness & Orientation: The formulation of these variables was guided by standard health services literature. No AI systems were used to determine the primary outcome or the specific predictor variables chosen."
+  },
+  {
+    "objectID": "example/content/research-readiness.html",
+    "href": "example/content/research-readiness.html",
+    "title": "Research Readiness Dashboard",
+    "section": "",
+    "text": "Use this dashboard as a self-auditing summary to assess the structural completeness, governance readiness, AI disclosure status, and reproducibility of your research project."
+  },
+  {
+    "objectID": "example/content/research-readiness.html#purpose",
+    "href": "example/content/research-readiness.html#purpose",
+    "title": "Research Readiness Dashboard",
+    "section": "",
+    "text": "Use this dashboard as a self-auditing summary to assess the structural completeness, governance readiness, AI disclosure status, and reproducibility of your research project."
+  },
+  {
+    "objectID": "example/content/research-readiness.html#project-overview-status",
+    "href": "example/content/research-readiness.html#project-overview-status",
+    "title": "Research Readiness Dashboard",
+    "section": "1. Project Overview Status",
+    "text": "1. Project Overview Status\n\n\n\n\n\n\n\n\nComponent\nStatus\nNotes\n\n\n\n\nResearch question clearly defined\n☑\nOutcome defined as binary missed appointment.\n\n\nDataset described\n☑\nSynthetic dataset fully documented in Data section.\n\n\nMethods documented\n☑\nLogistic regression model specified with equation.\n\n\nResults interpreted\n☑\nClass imbalance and interpretation discussed.\n\n\nLimitations stated\n☑\nLimitations of synthetic data acknowledged."
+  },
+  {
+    "objectID": "example/content/research-readiness.html#governance-completion",
+    "href": "example/content/research-readiness.html#governance-completion",
+    "title": "Research Readiness Dashboard",
+    "section": "2. Governance Completion",
+    "text": "2. Governance Completion\n\n\n\n\n\n\nNote\n\n\n\nThese artefacts strengthen research transparency and defensibility.\n\n\n\nDataset Card completed\nModel Card completed\nRisk Register filled\nDecision Log updated\nReproducibility Checklist completed\n\nNote: All governance artefacts are available in the governance/ directory."
+  },
+  {
+    "objectID": "example/content/research-readiness.html#ai-disclosure-reflection",
+    "href": "example/content/research-readiness.html#ai-disclosure-reflection",
+    "title": "Research Readiness Dashboard",
+    "section": "3. AI Disclosure & Reflection",
+    "text": "3. AI Disclosure & Reflection\n\n\n\n\n\n\nNote\n\n\n\nAI use is optional. Whether used or not, human responsibility remains primary. Transparency ensures rigorous research standards.\n\n\n\nAI tools used? (Yes)\nAI Capability Checkpoints completed\nAI use documented in Decision Log\nNo sensitive data shared with AI tools\nHuman verification explicitly documented\n\nNote: AI (a Large Language Model) was used for drafting assistance only, specifically to write the Python synthetic data script and critique the protocol. All outputs were reviewed and validated by the human research team. No real patient data was involved."
+  },
+  {
+    "objectID": "example/content/research-readiness.html#reproducibility-readiness",
+    "href": "example/content/research-readiness.html#reproducibility-readiness",
+    "title": "Research Readiness Dashboard",
+    "section": "4. Reproducibility Readiness",
+    "text": "4. Reproducibility Readiness\n\n\n\n\n\n\nNote\n\n\n\nA reproducible project ensures portability, transparency, and trust in the scientific method.\n\n\n\nData dictionary completed\nCodebook available\nSynthetic vs real data clearly stated\nDependencies documented\nVersion control in use\nCitation file included\n\nNote: The project leverages Quarto and tracks dependencies locally. Synthetic status is explicitly stated in the README and limitations."
+  },
+  {
+    "objectID": "example/content/research-readiness.html#summary-readiness-indicator",
+    "href": "example/content/research-readiness.html#summary-readiness-indicator",
+    "title": "Research Readiness Dashboard",
+    "section": "5. Summary Readiness Indicator",
+    "text": "5. Summary Readiness Indicator\nUse the following visual guide to interpret your total incomplete items across all checklists above.\n\n0 incomplete items → Research Ready for Internal Review\n1–5 incomplete items → Requires Governance Review\n&gt;5 incomplete items → Early Draft Stage\n\nThis synthetic project demonstrates full structural, governance, and AI transparency readiness within the template architecture."
+  },
+  {
+    "objectID": "example/content/03-data.html",
+    "href": "example/content/03-data.html",
+    "title": "3. Data",
+    "section": "",
+    "text": "Describe the data sources and datasets used in this research."
+  },
+  {
+    "objectID": "example/content/03-data.html#purpose",
+    "href": "example/content/03-data.html#purpose",
+    "title": "3. Data",
+    "section": "",
+    "text": "Describe the data sources and datasets used in this research."
+  },
+  {
+    "objectID": "example/content/03-data.html#details",
+    "href": "example/content/03-data.html#details",
+    "title": "3. Data",
+    "section": "Details",
+    "text": "Details\nDataset Overview: The primary dataset is a single flat CSV file containing N=10,000 synthetically generated patient outpatient records.\nSource: The data was simulated using a custom Python script for the express purpose of demonstrating this research workflow. It does not represent any specific institution, clinic, or geography.\nPre-processing: - lead_time_days was bounded between 1 and 365. - deprivation_quintile was uniformly distributed. - The outcome variable missed_appointment was synthetically weighted so that higher previous_missed and higher lead_time_days slightly increase the probability of a missed visit. Overall class balance is approximately 80% attended, 20% missed.\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nApplied Practice & Innovation: An AI coding assistant was used to rapidly generate the Python script responsible for synthesizing this dataset. The prompt specified the distribution constraints and correlation structures, which were then reviewed and tested by human researchers before final synthesis."
+  },
+  {
+    "objectID": "example/ai-support/ai-disclosure-statement.html",
+    "href": "example/ai-support/ai-disclosure-statement.html",
+    "title": "AI Disclosure Statement",
+    "section": "",
+    "text": "Project: REPLACE THIS: Project Title\nAI usage status: Not specified\n\n\nThis project may have used AI tools in limited ways (e.g., drafting support). All outputs were reviewed and validated by the research team. No sensitive or identifiable data should be shared with AI tools unless explicitly permitted by governance requirements.\nFor structured reflection, see the AI Capability Checkpoints."
+  },
+  {
+    "objectID": "example/ai-support/ai-disclosure-statement.html#disclosure",
+    "href": "example/ai-support/ai-disclosure-statement.html#disclosure",
+    "title": "AI Disclosure Statement",
+    "section": "",
+    "text": "Project: REPLACE THIS: Project Title\nAI usage status: Not specified\n\n\nThis project may have used AI tools in limited ways (e.g., drafting support). All outputs were reviewed and validated by the research team. No sensitive or identifiable data should be shared with AI tools unless explicitly permitted by governance requirements.\nFor structured reflection, see the AI Capability Checkpoints."
+  },
+  {
+    "objectID": "example/deploy/troubleshooting.html",
+    "href": "example/deploy/troubleshooting.html",
+    "title": "Troubleshooting",
+    "section": "",
+    "text": "This section mirrors the troubleshooting advice from the main template."
+  },
+  {
+    "objectID": "example/deploy/troubleshooting.html#common-issues",
+    "href": "example/deploy/troubleshooting.html#common-issues",
+    "title": "Troubleshooting",
+    "section": "Common Issues",
+    "text": "Common Issues\n\nQuarto Render Fails\n\nCheck for YAML syntax errors in _quarto.yml or front matter block of .qmd files.\nEnsure all file paths referenced in _quarto.yml correctly match the directory structure.\n\n\n\nMissing Navigation Links\n\nEnsure the href in the _quarto.yml navbar matches the exact file name and path.\nRemember that Quarto websites require an index.qmd or index.html at the project root.\n\n\n\nBroken Markdown Links\n\nRemember that links between files should be relative."
+  },
+  {
+    "objectID": "example/analysis/02-analysis-notes.html",
+    "href": "example/analysis/02-analysis-notes.html",
+    "title": "Analysis Notes",
+    "section": "",
+    "text": "Maintain an ongoing log of analytical decisions, roadblocks, or changes to the plan."
+  },
+  {
+    "objectID": "example/analysis/02-analysis-notes.html#purpose",
+    "href": "example/analysis/02-analysis-notes.html#purpose",
+    "title": "Analysis Notes",
+    "section": "",
+    "text": "Maintain an ongoing log of analytical decisions, roadblocks, or changes to the plan."
+  },
+  {
+    "objectID": "example/analysis/02-analysis-notes.html#details",
+    "href": "example/analysis/02-analysis-notes.html#details",
+    "title": "Analysis Notes",
+    "section": "Details",
+    "text": "Details\n2023-10-01: Commenced initial descriptive statistics on the synthetic dataset. No missing data identified (as expected, given the controlled synthetic generation process).\n2023-10-05: Fitted the initial multivariable logistic model. Checked VIFs; all were &lt; 2.0, indicating no severe multicollinearity between the simulated predictors (e.g., lead_time_days and previous_missed are largely independent in this dataset).\n2023-10-10: Finalized the interpretation. Model results align with the original parameters programmed into the synthetic data generator.\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nApplied Practice & Innovation: During the analysis phase, an AI assistant was used momentarily to recall the exact syntax for extracting VIF scores in R (car::vif()). This accelerated the workflow but did not alter the analytic decisions."
+  },
+  {
+    "objectID": "analysis/02-analysis-notes.html",
+    "href": "analysis/02-analysis-notes.html",
+    "title": "Analysis Notes",
+    "section": "",
+    "text": "Maintain an ongoing log of analytical decisions, roadblocks, or changes to the plan."
+  },
+  {
+    "objectID": "analysis/02-analysis-notes.html#purpose",
+    "href": "analysis/02-analysis-notes.html#purpose",
+    "title": "Analysis Notes",
+    "section": "",
+    "text": "Maintain an ongoing log of analytical decisions, roadblocks, or changes to the plan."
+  },
+  {
+    "objectID": "analysis/02-analysis-notes.html#details",
+    "href": "analysis/02-analysis-notes.html#details",
+    "title": "Analysis Notes",
+    "section": "Details",
+    "text": "Details\n\nREPLACE THIS: Record notes as the analysis progresses, including why deviations from the plan occurred."
+  },
+  {
+    "objectID": "analysis/02-analysis-notes.html#ai-capability-checkpoint",
+    "href": "analysis/02-analysis-notes.html#ai-capability-checkpoint",
+    "title": "Analysis Notes",
+    "section": "AI Capability Checkpoint",
+    "text": "AI Capability Checkpoint\nOptional guidance: Reflect on whether AI tools provided debugging or implementation support during analysis."
+  },
+  {
+    "objectID": "analysis/01-analysis-plan.html",
+    "href": "analysis/01-analysis-plan.html",
+    "title": "Analysis Plan",
+    "section": "",
+    "text": "Pre-register or outline the exact sequence of analytical steps."
+  },
+  {
+    "objectID": "analysis/01-analysis-plan.html#purpose",
+    "href": "analysis/01-analysis-plan.html#purpose",
+    "title": "Analysis Plan",
+    "section": "",
+    "text": "Pre-register or outline the exact sequence of analytical steps."
+  },
+  {
+    "objectID": "analysis/01-analysis-plan.html#details",
+    "href": "analysis/01-analysis-plan.html#details",
+    "title": "Analysis Plan",
+    "section": "Details",
+    "text": "Details\n\nREPLACE THIS: Outline the analysis steps, variables to examine, and criteria for success or significance."
+  },
+  {
+    "objectID": "analysis/01-analysis-plan.html#ai-capability-checkpoint",
+    "href": "analysis/01-analysis-plan.html#ai-capability-checkpoint",
+    "title": "Analysis Plan",
+    "section": "AI Capability Checkpoint",
+    "text": "AI Capability Checkpoint\nOptional guidance: Reflect on how AI helped in drafting this plan."
+  },
+  {
+    "objectID": "example/analysis/01-analysis-plan.html",
+    "href": "example/analysis/01-analysis-plan.html",
+    "title": "Analysis Plan",
+    "section": "",
+    "text": "Pre-register or outline the exact sequence of analytical steps."
+  },
+  {
+    "objectID": "example/analysis/01-analysis-plan.html#purpose",
+    "href": "example/analysis/01-analysis-plan.html#purpose",
+    "title": "Analysis Plan",
+    "section": "",
+    "text": "Pre-register or outline the exact sequence of analytical steps."
+  },
+  {
+    "objectID": "example/analysis/01-analysis-plan.html#details",
+    "href": "example/analysis/01-analysis-plan.html#details",
+    "title": "Analysis Plan",
+    "section": "Details",
+    "text": "Details\nObjective: Model the probability of missed_appointment = 1.\nPlanned Steps: 1. Data Ingestion: Load data/derived/synthetic_healthcare_example.csv. 2. Descriptive Statistics: Calculate missingness and distributions for all predictors. 3. Bivariate Analysis: Chi-square tests for categorical predictors against the outcome; t-tests/Mann-Whitney for continuous predictors. 4. Multivariable Modeling: Fit a logistic regression model including all predefined covariates (age, lead_time_days, appointment_type, previous_missed, deprivation_quintile). 5. Assumptions Check: Assess multicollinearity using Variance Inflation Factor (VIF).\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nAwareness & Orientation: This analysis sequence reflects standard operating procedures for observational cohort data. No AI tools were needed to design these steps. We understand the limits of these methods for inferring causality."
+  },
+  {
+    "objectID": "example/deploy/github-pages.html",
+    "href": "example/deploy/github-pages.html",
+    "title": "GitHub Pages",
+    "section": "",
+    "text": "This section is identical to the root template deployment guide.\nTo deploy this Quarto website to GitHub Pages:\n\nCreate a GitHub repository and push this project to it.\nIn your terminal, ensure you have committed all changes.\nRun the following command:\nquarto publish gh-pages\nQuarto will build the site, create a gh-pages branch, and push the static assets.\nIn your GitHub repository settings, ensure Pages is set to deploy from the gh-pages branch."
+  },
+  {
+    "objectID": "example/ai-support/ai-capability-checkpoints.html",
+    "href": "example/ai-support/ai-capability-checkpoints.html",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "This document provides reflection scaffolds aligned to a six-domain AI Capability model. These checkpoints are designed to support responsible, transparent, and professional research practice in this synthetic example.\n\n\n\nIf AI tools were used at this stage of the project:\n\nTools Used: A Large Language Model (LLM) was used as a drafting assistant to help shape the narrative structure of the synthetic protocol and generate the Python code for the synthetic dataset.\nLimitations: Known limitations included a tendency for the LLM to hallucinate overly complex or clinically specific variables that were not appropriate for a generic synthetic dataset.\nChecks Performed: Human researchers carefully reviewed all generated covariates and code against standard epidemiological principles before finalising the dataset.\n\n\n\n\n\nIf applicable:\n\nTasks Supported: Drafting boilerplate protocol text, commenting code, and structuring governance documents (like the risk register).\nHuman Judgement: The choice of logistic regression as the primary analytical method, and the specific distribution shapes of the synthetic data, remained entirely under human control.\nHuman Oversight: All AI-drafted sections were iteratively edited by human authors to ensure a neutral, governance-oriented tone.\nEvaluating Suggestions: Suggestions to include complex machine learning algorithms (e.g., neural networks) in the methodology were rejected to maintain the educational simplicity of the example.\n\n\n\n\n\nIf AI tools were used:\n\nSpecific Ways AI Supported: AI significantly accelerated the creation of the data/codebook.csv format and helped generate the repetitive markdown structure of the Quarto .qmd files.\nIndependent Elements: The core concept (investigating missed appointments) and the specific relationships injected into the synthetic data (e.g., previous_missed being strongly predictive) were developed independently by human researchers.\nModifications: AI outputs were substantially modified to remove any enthusiastic or promotional language regarding AI use itself, in line with governance requirements.\n\n\n\n\n\nIf AI tools were involved:\n\nData Shared: No sensitive or identifiable data was shared with AI systems; the entire project relies on simulated data.\nBias/Fairness Risks: When prompting the AI to draft the ‘Interpretation’ section, there was a risk of the model attributing missed appointments solely to patient non-compliance.\nEquity Implications Review: The research team actively guided the AI drafting process to ensure structural factors (like lead time and deprivation quintile) were highlighted, mitigating the risk of framing bias.\n\n\n\n\n\nIf AI tools were used:\n\nDocumentation: AI use was documented transparently in the ‘AI Capability Checkpoint’ callouts embedded at the bottom of each relevant content page.\nDisclosure Requirements: We considered standard journal AI disclosure requirements and ensured this standalone document serves as a comprehensive record of AI assistance.\nJustifications: The decision to use AI to generate the synthetic dataset rather than hand-crafting it was justified by the need for reproducibility and scale (N=10,000) within a demonstration context.\n\n\n\n\n\nOptional reflective prompts:\n\nWhat Worked Well: Using AI to overcome the “blank page” problem for governance documentation (e.g., generating the initial structure of the Model Card) was highly efficient.\nFuture Changes: In future iterations, we would rely less on open-ended conversational prompts and more on highly structured templates when asking the AI to synthesize data.\nInfluence: AI positively influenced the structural consistency of the markdown files but required careful editing to ensure the framing remained strictly neutral.\n\n\n\n\n\n\nAI use is not required for this template.\nThese checkpoints are designed to support transparency and governance.\nResponsibility for all research outputs remains with the human authors."
+  },
+  {
+    "objectID": "example/ai-support/ai-capability-checkpoints.html#awareness-orientation",
+    "href": "example/ai-support/ai-capability-checkpoints.html#awareness-orientation",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "If AI tools were used at this stage of the project:\n\nTools Used: A Large Language Model (LLM) was used as a drafting assistant to help shape the narrative structure of the synthetic protocol and generate the Python code for the synthetic dataset.\nLimitations: Known limitations included a tendency for the LLM to hallucinate overly complex or clinically specific variables that were not appropriate for a generic synthetic dataset.\nChecks Performed: Human researchers carefully reviewed all generated covariates and code against standard epidemiological principles before finalising the dataset."
+  },
+  {
+    "objectID": "example/ai-support/ai-capability-checkpoints.html#humanai-co-agency",
+    "href": "example/ai-support/ai-capability-checkpoints.html#humanai-co-agency",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "If applicable:\n\nTasks Supported: Drafting boilerplate protocol text, commenting code, and structuring governance documents (like the risk register).\nHuman Judgement: The choice of logistic regression as the primary analytical method, and the specific distribution shapes of the synthetic data, remained entirely under human control.\nHuman Oversight: All AI-drafted sections were iteratively edited by human authors to ensure a neutral, governance-oriented tone.\nEvaluating Suggestions: Suggestions to include complex machine learning algorithms (e.g., neural networks) in the methodology were rejected to maintain the educational simplicity of the example."
+  },
+  {
+    "objectID": "example/ai-support/ai-capability-checkpoints.html#applied-practice-innovation",
+    "href": "example/ai-support/ai-capability-checkpoints.html#applied-practice-innovation",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "If AI tools were used:\n\nSpecific Ways AI Supported: AI significantly accelerated the creation of the data/codebook.csv format and helped generate the repetitive markdown structure of the Quarto .qmd files.\nIndependent Elements: The core concept (investigating missed appointments) and the specific relationships injected into the synthetic data (e.g., previous_missed being strongly predictive) were developed independently by human researchers.\nModifications: AI outputs were substantially modified to remove any enthusiastic or promotional language regarding AI use itself, in line with governance requirements."
+  },
+  {
+    "objectID": "example/ai-support/ai-capability-checkpoints.html#ethics-equity-impact",
+    "href": "example/ai-support/ai-capability-checkpoints.html#ethics-equity-impact",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "If AI tools were involved:\n\nData Shared: No sensitive or identifiable data was shared with AI systems; the entire project relies on simulated data.\nBias/Fairness Risks: When prompting the AI to draft the ‘Interpretation’ section, there was a risk of the model attributing missed appointments solely to patient non-compliance.\nEquity Implications Review: The research team actively guided the AI drafting process to ensure structural factors (like lead time and deprivation quintile) were highlighted, mitigating the risk of framing bias."
+  },
+  {
+    "objectID": "example/ai-support/ai-capability-checkpoints.html#decision-making-governance",
+    "href": "example/ai-support/ai-capability-checkpoints.html#decision-making-governance",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "If AI tools were used:\n\nDocumentation: AI use was documented transparently in the ‘AI Capability Checkpoint’ callouts embedded at the bottom of each relevant content page.\nDisclosure Requirements: We considered standard journal AI disclosure requirements and ensured this standalone document serves as a comprehensive record of AI assistance.\nJustifications: The decision to use AI to generate the synthetic dataset rather than hand-crafting it was justified by the need for reproducibility and scale (N=10,000) within a demonstration context."
+  },
+  {
+    "objectID": "example/ai-support/ai-capability-checkpoints.html#reflection-learning-renewal",
+    "href": "example/ai-support/ai-capability-checkpoints.html#reflection-learning-renewal",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "Optional reflective prompts:\n\nWhat Worked Well: Using AI to overcome the “blank page” problem for governance documentation (e.g., generating the initial structure of the Model Card) was highly efficient.\nFuture Changes: In future iterations, we would rely less on open-ended conversational prompts and more on highly structured templates when asking the AI to synthesize data.\nInfluence: AI positively influenced the structural consistency of the markdown files but required careful editing to ensure the framing remained strictly neutral."
+  },
+  {
+    "objectID": "example/ai-support/ai-capability-checkpoints.html#important-notes",
+    "href": "example/ai-support/ai-capability-checkpoints.html#important-notes",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "AI use is not required for this template.\nThese checkpoints are designed to support transparency and governance.\nResponsibility for all research outputs remains with the human authors."
+  },
+  {
+    "objectID": "example/content/04-methods.html",
+    "href": "example/content/04-methods.html",
+    "title": "4. Methods",
+    "section": "",
+    "text": "Explain the analytical or statistical methods applied."
+  },
+  {
+    "objectID": "example/content/04-methods.html#purpose",
+    "href": "example/content/04-methods.html#purpose",
+    "title": "4. Methods",
+    "section": "",
+    "text": "Explain the analytical or statistical methods applied."
+  },
+  {
+    "objectID": "example/content/04-methods.html#details",
+    "href": "example/content/04-methods.html#details",
+    "title": "4. Methods",
+    "section": "Details",
+    "text": "Details\nStatistical Analysis: We employ a multivariable logistic regression model to estimate the association between patient factors and the likelihood of a missed appointment.\nThe model is defined as:\n\\[\n\\text{logit}(P(Y=1)) = \\beta_0 + \\beta_1(\\text{age}) + \\beta_2(\\text{lead\\_time}) + \\beta_3(\\text{appointment\\_type}) + \\beta_4(\\text{previous\\_missed}) + \\beta_5(\\text{deprivation})\n\\]\nWhere \\(P(Y=1)\\) is the probability of a missed appointment.\nExample Code Implementation: The following is an illustrative example of the modeling code used (not executed in this document):\n# Fit logistic regression model\nmodel &lt;- glm(missed_appointment ~ age + lead_time_days + \n             as.factor(appointment_type) + previous_missed + \n             as.factor(deprivation_quintile), \n             data = synthetic_data, \n             family = binomial(link = \"logit\"))\n\n# Display summary\nsummary(model)\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nEthics, Equity & Impact: While AI tools assisted in drafting the model text and LaTeX equations, the selection of logistic regression was a human choice appropriate for binary outcomes. We carefully reviewed the output to ensure the equation accurately reflected the intended study variables."
+  },
+  {
+    "objectID": "example/content/07-limitations.html",
+    "href": "example/content/07-limitations.html",
+    "title": "7. Limitations",
+    "section": "",
+    "text": "Acknowledge the constraints, biases, or limitations of the study."
+  },
+  {
+    "objectID": "example/content/07-limitations.html#purpose",
+    "href": "example/content/07-limitations.html#purpose",
+    "title": "7. Limitations",
+    "section": "",
+    "text": "Acknowledge the constraints, biases, or limitations of the study."
+  },
+  {
+    "objectID": "example/content/07-limitations.html#details",
+    "href": "example/content/07-limitations.html#details",
+    "title": "7. Limitations",
+    "section": "Details",
+    "text": "Details\nThreats to Validity: 1. Synthetic Data: The primary limitation is that all data is synthetic. The correlations between variables were deliberately injected by the data generation script rather than naturally observed. 2. Omitted Variable Bias: The model lacks complex clinical variables (e.g., comorbidity indices, specific diagnoses) and detailed geospatial data (travel time to clinic), which likely confound attendance behavior in reality. 3. Cross-Sectional Nature: The study takes a cross-sectional approach over a 12-month period. It cannot definitively establish causal sequences for behavioral variables.\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nReflection, Learning & Renewal: Utilizing AI to draft limitations helped ensure standard epidemiological threats (like omitted variable bias) were articulated clearly. In future real-world studies, we would rely strictly on human methodological experts to identify contextual nuances not apparent to general-purpose AI tools."
+  },
+  {
+    "objectID": "example/content/05-results.html",
+    "href": "example/content/05-results.html",
+    "title": "5. Results",
+    "section": "",
+    "text": "Present the findings of the analysis."
+  },
+  {
+    "objectID": "example/content/05-results.html#purpose",
+    "href": "example/content/05-results.html#purpose",
+    "title": "5. Results",
+    "section": "",
+    "text": "Present the findings of the analysis."
+  },
+  {
+    "objectID": "example/content/05-results.html#details",
+    "href": "example/content/05-results.html#details",
+    "title": "5. Results",
+    "section": "Details",
+    "text": "Details\nCohort Summary: The final analytical dataset comprised 10,000 synthetic encounters. The overall missed appointment rate was 18.2%. The median age of the simulated cohort was 45 years.\nLogistic Regression Findings: - Previous Missed Appointments: The strongest predictor of a missed visit in the synthetic data was a history of previous missed appointments (Odds Ratio [OR] = 1.35, 95% Confidence Interval [CI] 1.28-1.43). - Lead Time: Longer lead times between scheduling and the actual appointment were moderately associated with an increased likelihood of missing the appointment (OR = 1.02 per additional day). - Deprivation Quintile: Patients situated in the most deprived synthetic quintile (Q1) exhibited a higher odds of non-attendance compared to the least deprived quintile (Q5) (OR = 1.15). - Age: Age demonstrated a minor protective effect, with older simulated patients being slightly less likely to miss appointments.\n\n\n\n\n\n\nWarning\n\n\n\nNote: These results are derived from wholly synthetic data structured explicitly to exhibit these relationships for demonstration purposes. They do not represent real-world clinical findings.\n\n\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nApplied Practice & Innovation: No generative AI was used to derive these statistical results. These represent the planned output of the synthetic data generation script created during the Data phase."
+  },
+  {
+    "objectID": "example/content/submission-pack.html",
+    "href": "example/content/submission-pack.html",
+    "title": "Submission Pack Documentation",
+    "section": "",
+    "text": "This template supports structured research documentation. Before submission or review, artefacts should be exported and packaged to ensure reviewers have access to a complete, portable record of the research object. This page outlines a recommended packaging workflow."
+  },
+  {
+    "objectID": "example/content/submission-pack.html#overview",
+    "href": "example/content/submission-pack.html#overview",
+    "title": "Submission Pack Documentation",
+    "section": "",
+    "text": "This template supports structured research documentation. Before submission or review, artefacts should be exported and packaged to ensure reviewers have access to a complete, portable record of the research object. This page outlines a recommended packaging workflow."
+  },
+  {
+    "objectID": "example/content/submission-pack.html#prerequisites",
+    "href": "example/content/submission-pack.html#prerequisites",
+    "title": "Submission Pack Documentation",
+    "section": "2. Prerequisites",
+    "text": "2. Prerequisites\nBefore generating PDFs or packaging a submission ZIP, ensure the following are in place:\n\nQuarto installed and available on your PATH (so quarto runs from Terminal).\nPDF rendering support:\n\nA LaTeX distribution is required to render PDFs (e.g., TinyTeX, TeX Live, or MikTeX).\nIf LaTeX is not installed, PDF commands will fail even if HTML rendering works.\n\nProject configuration allows PDF output:\n\nIf your project is configured for HTML-only, you may need to enable PDF in _quarto.yml (or render individual pages to PDF explicitly).\n\nExpected files exist before zipping:\n\nThe ZIP step does not generate outputs; it only packages files you have already rendered/exported (e.g., manuscript.pdf, governance PDFs, references.bib, codebook/data dictionary).\n\nFile names may differ:\n\nAdjust command examples to match your actual output filenames and folder paths."
+  },
+  {
+    "objectID": "example/content/submission-pack.html#generate-manuscript-pdf",
+    "href": "example/content/submission-pack.html#generate-manuscript-pdf",
+    "title": "Submission Pack Documentation",
+    "section": "3. Generate Manuscript PDF",
+    "text": "3. Generate Manuscript PDF\nTo generate a standalone PDF of your primary manuscript (e.g., the Reuse & Citation page or the entire set of content pages), use the Quarto rendering tools from your terminal.\nFor a specific page:\nquarto render content/08-reuse-citation.qmd --to pdf\nOr, to render the entire project into its configured output formats:\nquarto render --to pdf\nNote: The generated PDF will typically be saved in the same directory as the source .qmd file or in the _site/ directory based on your configuration. Ensure that your citation formatting and references render correctly in the output."
+  },
+  {
+    "objectID": "example/content/submission-pack.html#generate-governance-summary-pdf",
+    "href": "example/content/submission-pack.html#generate-governance-summary-pdf",
+    "title": "Submission Pack Documentation",
+    "section": "4. Generate Governance Summary PDF",
+    "text": "4. Generate Governance Summary PDF\nIt is recommended to compile a consolidated PDF of your governance artefacts to provide reviewers with a transparent view of project risks, decisions, and capabilities.\nYou can render individual governance documents:\nquarto render governance/dataset_card.qmd --to pdf\nA complete governance pack should include: - Dataset Card - Model Card - Risk Register - Decision Log - Reproducibility Checklist - AI Capability Disclosure (if used)\n(Alternatively, you can create a single governance-summary.qmd file that includes the contents of all these artefacts and render that into a single PDF.)"
+  },
+  {
+    "objectID": "example/content/submission-pack.html#create-submission-zip-package",
+    "href": "example/content/submission-pack.html#create-submission-zip-package",
+    "title": "Submission Pack Documentation",
+    "section": "5. Create Submission ZIP Package",
+    "text": "5. Create Submission ZIP Package\nOnce your PDFs are generated, you should create a ZIP package containing the essential components of your research object.\nRecommended contents for the package: - Manuscript PDF - Governance summary PDF - Data dictionary (.qmd or .pdf) - Codebook (.csv) - Synthetic dataset (if applicable) - Citation file (references.bib) - License file (LICENSE) - Project overview (README.md)\nYou can create this package using your operating system’s native ZIP tools (e.g., Right-click the folder \\(\\to\\) Compress), or by using the terminal:\nzip submission-pack.zip manuscript.pdf governance-summary.pdf data_dictionary.qmd codebook.csv references.bib"
+  },
+  {
+    "objectID": "example/content/submission-pack.html#recommended-submission-structure",
+    "href": "example/content/submission-pack.html#recommended-submission-structure",
+    "title": "Submission Pack Documentation",
+    "section": "6. Recommended Submission Structure",
+    "text": "6. Recommended Submission Structure\nThe ideal layout for the contents inside your ZIP package should look like this:\nsubmission-pack/\n  manuscript.pdf\n  governance-summary.pdf\n  data_dictionary.pdf\n  codebook.csv\n  synthetic_dataset.csv\n  references.bib\n  LICENSE\n  README.md"
+  },
+  {
+    "objectID": "example/content/submission-pack.html#governance-statement",
+    "href": "example/content/submission-pack.html#governance-statement",
+    "title": "Submission Pack Documentation",
+    "section": "7. Governance Statement",
+    "text": "7. Governance Statement\nThis submission structure strengthens transparency, defensibility, and reproducibility without requiring complex infrastructure. By packaging both the narrative manuscript and the underlying governance artefacts, you ensure that the complete context of the research is preserved for review."
+  },
+  {
+    "objectID": "example/content/02-protocol.html",
+    "href": "example/content/02-protocol.html",
+    "title": "2. Protocol",
+    "section": "",
+    "text": "Detail the experimental protocol or study design."
+  },
+  {
+    "objectID": "example/content/02-protocol.html#purpose",
+    "href": "example/content/02-protocol.html#purpose",
+    "title": "2. Protocol",
+    "section": "",
+    "text": "Detail the experimental protocol or study design."
+  },
+  {
+    "objectID": "example/content/02-protocol.html#details",
+    "href": "example/content/02-protocol.html#details",
+    "title": "2. Protocol",
+    "section": "Details",
+    "text": "Details\nOverview of Study Design: This is a retrospective observational cohort study utilizing a fully synthetic, cross-sectional snapshot of ambulatory care data.\nInclusion Criteria: - Adult simulated patients (Age \\(\\ge\\) 18). - Scheduled for an outpatient visit between January 1, 2023, and December 31, 2023.\nExclusion Criteria: - Appointments cancelled with &gt;24 hours notice (these are not considered ‘missed’ for the purpose of the primary outcome).\nProcedure: 1. Data Extraction: Synthetic generation of the cohort dataset. 2. Data Cleaning: Removal of logical inconsistencies (e.g., negative lead times). 3. Exploratory Data Analysis: Assessing distributions and collinearity among predictors. 4. Model Fitting: Logistic regression.\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nHuman–AI Co-Agency: AI was used solely to draft this synthetic protocol language based on standard epidemiological study designs. Human oversight ensured the criteria aligned logically with the synthetic variables. The overall experimental design conceptually remains under human control."
+  },
+  {
+    "objectID": "example/index.html",
+    "href": "example/index.html",
+    "title": "Understanding Factors Associated with Missed Outpatient Appointments",
+    "section": "",
+    "text": "Welcome to the Missed Appointment Study Research Object.\nThis is a synthetic healthcare research project demonstrating the use of the Healthcare Research Object Template."
+  },
+  {
+    "objectID": "example/index.html#study-overview",
+    "href": "example/index.html#study-overview",
+    "title": "Understanding Factors Associated with Missed Outpatient Appointments",
+    "section": "Study Overview",
+    "text": "Study Overview\nThis synthetic study investigates the factors associated with missed outpatient appointments within a generic healthcare setting. The goal is to identify predictors such as age, lead time, appointment type, previous missed appointments, and socio-economic deprivation to better understand service utilisation patterns.\nUse the navigation bar to access: - Content: The core research narrative (Question to Limitations). - Analysis: Our analysis plan and ongoing notes. - Data: Our data dictionary describing the synthetic variables. - Governance: Important transparent documentation, including dataset and model cards. - AI Support: Our reflections on the use of AI tools in this synthetic project.\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nAwareness & Orientation: No AI tools were used to formulate the initial concept for this synthetic study; it is based on common health services research themes. AI tools were subsequently used to generate the synthetic dataset and draft portions of this template text for demonstration purposes."
+  },
+  {
+    "objectID": "example/governance/governance-status.html",
+    "href": "example/governance/governance-status.html",
+    "title": "Governance Status",
+    "section": "",
+    "text": "Field\nValue\n\n\n\n\nGovernance complete\nNot specified\n\n\nLast updated\nREPLACE THIS: YYYY-MM-DD"
+  },
+  {
+    "objectID": "example/governance/governance-status.html#status",
+    "href": "example/governance/governance-status.html#status",
+    "title": "Governance Status",
+    "section": "",
+    "text": "Field\nValue\n\n\n\n\nGovernance complete\nNot specified\n\n\nLast updated\nREPLACE THIS: YYYY-MM-DD"
+  },
+  {
+    "objectID": "example/governance/governance-status.html#governance-artefacts-checklist",
+    "href": "example/governance/governance-status.html#governance-artefacts-checklist",
+    "title": "Governance Status",
+    "section": "Governance artefacts checklist",
+    "text": "Governance artefacts checklist\n\nDataset Card completed\nModel Card completed\nRisk Register filled\nDecision Log updated\nReproducibility Checklist completed\nAI Disclosure Statement completed (if applicable)\n\n\n\n\n\n\n\nNote\n\n\n\nTick boxes in the source file and re-render to preserve the record."
+  },
+  {
+    "objectID": "example/governance/dataset_card.html",
+    "href": "example/governance/dataset_card.html",
+    "title": "Dataset Card",
+    "section": "",
+    "text": "This is a fully synthetic dataset simulating 10,000 outpatient appointments to evaluate predictors of missed visits. It was generated specifically for the CloudPedagogy Healthcare Research Object template demonstration."
+  },
+  {
+    "objectID": "example/governance/dataset_card.html#overview",
+    "href": "example/governance/dataset_card.html#overview",
+    "title": "Dataset Card",
+    "section": "",
+    "text": "This is a fully synthetic dataset simulating 10,000 outpatient appointments to evaluate predictors of missed visits. It was generated specifically for the CloudPedagogy Healthcare Research Object template demonstration."
+  },
+  {
+    "objectID": "example/governance/dataset_card.html#collection-process",
+    "href": "example/governance/dataset_card.html#collection-process",
+    "title": "Dataset Card",
+    "section": "Collection Process",
+    "text": "Collection Process\n\nSource: Synthetically generated via a custom Python script.\nTimeframe: Data generated on October 1, 2023, representing a simulated 12-month period.\nMethod: Random sampling from pre-defined statistical distributions (e.g., uniform for deprivation quintile, Poisson for previous missed visits). Associations were hard-coded into the generation script."
+  },
+  {
+    "objectID": "example/governance/dataset_card.html#pre-processing-cleaning",
+    "href": "example/governance/dataset_card.html#pre-processing-cleaning",
+    "title": "Dataset Card",
+    "section": "Pre-processing & Cleaning",
+    "text": "Pre-processing & Cleaning\nNo physical cleaning was required. The generation script ensured no missing values and enforced logical constraints (e.g., lead_time_days &gt; 0)."
+  },
+  {
+    "objectID": "example/governance/dataset_card.html#privacy-ethics",
+    "href": "example/governance/dataset_card.html#privacy-ethics",
+    "title": "Dataset Card",
+    "section": "Privacy & Ethics",
+    "text": "Privacy & Ethics\n\nDe-identification: Not applicable. All data is artificial. No real patients are represented.\nConsent: Not applicable."
+  },
+  {
+    "objectID": "example/governance/dataset_card.html#limitations",
+    "href": "example/governance/dataset_card.html#limitations",
+    "title": "Dataset Card",
+    "section": "Limitations",
+    "text": "Limitations\nThis dataset lacks the real-world complexity, missingness patterns, and non-linear relationships found in actual healthcare data. It cannot be used to make clinical or operational decisions.\n\n\n\n\n\n\n\nNoteAI Capability Checkpoint\n\n\n\nEthics, Equity & Impact: Despite being synthetic, we ensured the generated variables (like deprivation quintile) reflect common equity indicators to support robust discussion of socioeconomic factors in health modeling. AI was not used to synthesize the ethical framework, though it helped format this card."
+  },
+  {
+    "objectID": "example/governance/reproducibility_checklist.html",
+    "href": "example/governance/reproducibility_checklist.html",
+    "title": "Reproducibility Checklist",
+    "section": "",
+    "text": "Reproducibility Checklist\nUse this checklist to ensure the project can be independently reproduced.\n\nAll raw data sources are documented or provided (where legally/ethically permitted). (Provided synthetic data)\nData cleaning and preprocessing scripts are included and documented. (Not applicable for synthetic data)\nThe computational environment (e.g., packages, versions) is documented. (Described in analysis notes)\nAll analysis scripts are included and use relative paths. (Demonstrated via Quarto chunks)\nRandom seeds are set where stochastic processes are used. (Seed set in data generation script: 42)\nInstructions for running the analysis pipeline from start to finish are clear. (See README)"
+  },
+  {
+    "objectID": "deploy/troubleshooting.html",
+    "href": "deploy/troubleshooting.html",
+    "title": "Troubleshooting",
+    "section": "",
+    "text": "Check for YAML syntax errors in _quarto.yml or front matter block of .qmd files.\nEnsure all file paths referenced in _quarto.yml correctly match the directory structure.\n\n\n\n\n\nEnsure the href in the _quarto.yml navbar matches the exact file name and path.\nRemember that Quarto websites require an index.qmd or index.html at the project root.\n\n\n\n\n\nRemember that links between files should be relative."
+  },
+  {
+    "objectID": "deploy/troubleshooting.html#common-issues",
+    "href": "deploy/troubleshooting.html#common-issues",
+    "title": "Troubleshooting",
+    "section": "",
+    "text": "Check for YAML syntax errors in _quarto.yml or front matter block of .qmd files.\nEnsure all file paths referenced in _quarto.yml correctly match the directory structure.\n\n\n\n\n\nEnsure the href in the _quarto.yml navbar matches the exact file name and path.\nRemember that Quarto websites require an index.qmd or index.html at the project root.\n\n\n\n\n\nRemember that links between files should be relative."
+  },
+  {
+    "objectID": "ai-support/ai-disclosure-statement.html",
+    "href": "ai-support/ai-disclosure-statement.html",
+    "title": "AI Disclosure Statement",
+    "section": "",
+    "text": "Project: REPLACE THIS: Project Title\nAI usage status: Not specified\n\n\nThis project may have used AI tools in limited ways (e.g., drafting support). All outputs were reviewed and validated by the research team. No sensitive or identifiable data should be shared with AI tools unless explicitly permitted by governance requirements.\nFor structured reflection, see the AI Capability Checkpoints."
+  },
+  {
+    "objectID": "ai-support/ai-disclosure-statement.html#disclosure",
+    "href": "ai-support/ai-disclosure-statement.html#disclosure",
+    "title": "AI Disclosure Statement",
+    "section": "",
+    "text": "Project: REPLACE THIS: Project Title\nAI usage status: Not specified\n\n\nThis project may have used AI tools in limited ways (e.g., drafting support). All outputs were reviewed and validated by the research team. No sensitive or identifiable data should be shared with AI tools unless explicitly permitted by governance requirements.\nFor structured reflection, see the AI Capability Checkpoints."
+  },
+  {
+    "objectID": "ai-support/prompt-pack-ethics-equity-impact.html",
+    "href": "ai-support/prompt-pack-ethics-equity-impact.html",
+    "title": "Prompt Pack: Ethics, Equity & Impact",
+    "section": "",
+    "text": "Use these prompts to explore the broader implications of your research or AI tool usage.\n\n\n“I am designing a study using [Dataset Type] to predict [Outcome]. What are the historical or systemic biases commonly found in this type of data, and how might they impact my model’s fairness?”\n\n\n\n“Who are the stakeholders most likely to be negatively impacted by false positives or false negatives in a model predicting [Outcome]? Help me brainstorm potential harms and mitigation strategies.”"
+  },
+  {
+    "objectID": "ai-support/prompt-pack-ethics-equity-impact.html#prompt-1-bias-identification",
+    "href": "ai-support/prompt-pack-ethics-equity-impact.html#prompt-1-bias-identification",
+    "title": "Prompt Pack: Ethics, Equity & Impact",
+    "section": "",
+    "text": "“I am designing a study using [Dataset Type] to predict [Outcome]. What are the historical or systemic biases commonly found in this type of data, and how might they impact my model’s fairness?”"
+  },
+  {
+    "objectID": "ai-support/prompt-pack-ethics-equity-impact.html#prompt-2-impact-assessment",
+    "href": "ai-support/prompt-pack-ethics-equity-impact.html#prompt-2-impact-assessment",
+    "title": "Prompt Pack: Ethics, Equity & Impact",
+    "section": "",
+    "text": "“Who are the stakeholders most likely to be negatively impacted by false positives or false negatives in a model predicting [Outcome]? Help me brainstorm potential harms and mitigation strategies.”"
+  },
+  {
+    "objectID": "ai-support/ai-capability-checkpoints.html",
+    "href": "ai-support/ai-capability-checkpoints.html",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "This document provides optional reflection scaffolds aligned to a six-domain AI Capability model.\nThese checkpoints are designed to support responsible, transparent, and professional research practice.\nCompletion is not required.\nIf AI tools were not used in your research process, this section may be left blank or removed.\n\n\n\nIf AI tools were used at this stage of the project:\n\nWhat tools were used (e.g., drafting assistants, coding support, summarisation tools)?\nWhat are their known limitations (e.g., hallucination, bias amplification, incomplete context)?\nWhat checks were performed to ensure accuracy and reliability?\n\nIf no AI tools were used, briefly state that the work was completed without AI assistance.\n\n\n\n\nIf applicable:\n\nWhich tasks were supported by AI tools?\nWhich decisions remained fully under human judgement?\nWhere was human oversight explicitly exercised?\nHow were AI-generated suggestions evaluated or rejected?\n\nClarify that ultimate responsibility for the work remains with the research team.\n\n\n\n\nIf AI tools were used:\n\nIn what specific ways did AI support drafting, structuring, analysis, or critique?\nWhat elements of the research were developed independently?\nWere any AI outputs modified substantially before inclusion?\n\nAvoid overstating AI contributions. Emphasise verification and professional judgement.\n\n\n\n\nIf AI tools were involved:\n\nWere any sensitive or identifiable data shared with AI systems?\nWhat bias or fairness risks were considered?\nCould AI-assisted language or framing unintentionally misrepresent findings?\nHow were equity implications reviewed?\n\nIf AI was not used, consider whether the research topic itself carries equity or impact considerations.\n\n\n\n\nIf AI tools were used:\n\nHow was AI use documented (e.g., in decision logs or methods notes)?\nWere institutional, funder, or journal disclosure requirements considered?\nHow were AI-assisted decisions justified and recorded?\n\nEnsure transparency and traceability where relevant.\n\n\n\n\nOptional reflective prompts:\n\nWhat worked well (or not) when integrating AI into this project?\nWhat would you do differently in future work?\nDid AI influence the framing, clarity, or structure of the research?\n\nIf AI was not used, reflect briefly on whether it would have added value or risk in this context.\n\n\n\n\n\nAI use is not required for this template.\nThese checkpoints are designed to support transparency and governance.\nResearchers may adapt, shorten, or remove this section to suit their workflow.\nResponsibility for all research outputs remains with the human authors."
+  },
+  {
+    "objectID": "ai-support/ai-capability-checkpoints.html#awareness-orientation",
+    "href": "ai-support/ai-capability-checkpoints.html#awareness-orientation",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "If AI tools were used at this stage of the project:\n\nWhat tools were used (e.g., drafting assistants, coding support, summarisation tools)?\nWhat are their known limitations (e.g., hallucination, bias amplification, incomplete context)?\nWhat checks were performed to ensure accuracy and reliability?\n\nIf no AI tools were used, briefly state that the work was completed without AI assistance."
+  },
+  {
+    "objectID": "ai-support/ai-capability-checkpoints.html#humanai-co-agency",
+    "href": "ai-support/ai-capability-checkpoints.html#humanai-co-agency",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "If applicable:\n\nWhich tasks were supported by AI tools?\nWhich decisions remained fully under human judgement?\nWhere was human oversight explicitly exercised?\nHow were AI-generated suggestions evaluated or rejected?\n\nClarify that ultimate responsibility for the work remains with the research team."
+  },
+  {
+    "objectID": "ai-support/ai-capability-checkpoints.html#applied-practice-innovation",
+    "href": "ai-support/ai-capability-checkpoints.html#applied-practice-innovation",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "If AI tools were used:\n\nIn what specific ways did AI support drafting, structuring, analysis, or critique?\nWhat elements of the research were developed independently?\nWere any AI outputs modified substantially before inclusion?\n\nAvoid overstating AI contributions. Emphasise verification and professional judgement."
+  },
+  {
+    "objectID": "ai-support/ai-capability-checkpoints.html#ethics-equity-impact",
+    "href": "ai-support/ai-capability-checkpoints.html#ethics-equity-impact",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "If AI tools were involved:\n\nWere any sensitive or identifiable data shared with AI systems?\nWhat bias or fairness risks were considered?\nCould AI-assisted language or framing unintentionally misrepresent findings?\nHow were equity implications reviewed?\n\nIf AI was not used, consider whether the research topic itself carries equity or impact considerations."
+  },
+  {
+    "objectID": "ai-support/ai-capability-checkpoints.html#decision-making-governance",
+    "href": "ai-support/ai-capability-checkpoints.html#decision-making-governance",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "If AI tools were used:\n\nHow was AI use documented (e.g., in decision logs or methods notes)?\nWere institutional, funder, or journal disclosure requirements considered?\nHow were AI-assisted decisions justified and recorded?\n\nEnsure transparency and traceability where relevant."
+  },
+  {
+    "objectID": "ai-support/ai-capability-checkpoints.html#reflection-learning-renewal",
+    "href": "ai-support/ai-capability-checkpoints.html#reflection-learning-renewal",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "Optional reflective prompts:\n\nWhat worked well (or not) when integrating AI into this project?\nWhat would you do differently in future work?\nDid AI influence the framing, clarity, or structure of the research?\n\nIf AI was not used, reflect briefly on whether it would have added value or risk in this context."
+  },
+  {
+    "objectID": "ai-support/ai-capability-checkpoints.html#important-notes",
+    "href": "ai-support/ai-capability-checkpoints.html#important-notes",
+    "title": "AI Capability Checkpoints",
+    "section": "",
+    "text": "AI use is not required for this template.\nThese checkpoints are designed to support transparency and governance.\nResearchers may adapt, shorten, or remove this section to suit their workflow.\nResponsibility for all research outputs remains with the human authors."
+  },
+  {
+    "objectID": "content/04-methods.html",
+    "href": "content/04-methods.html",
+    "title": "4. Methods",
+    "section": "",
+    "text": "Explain the analytical or statistical methods applied."
+  },
+  {
+    "objectID": "content/04-methods.html#purpose",
+    "href": "content/04-methods.html#purpose",
+    "title": "4. Methods",
+    "section": "",
+    "text": "Explain the analytical or statistical methods applied."
+  },
+  {
+    "objectID": "content/04-methods.html#details",
+    "href": "content/04-methods.html#details",
+    "title": "4. Methods",
+    "section": "Details",
+    "text": "Details\n\nREPLACE THIS: Outline the exact techniques, algorithms, or statistical tests used."
+  },
+  {
+    "objectID": "content/04-methods.html#ai-capability-checkpoint",
+    "href": "content/04-methods.html#ai-capability-checkpoint",
+    "title": "4. Methods",
+    "section": "AI Capability Checkpoint",
+    "text": "AI Capability Checkpoint\nOptional guidance: Reflect on AI’s role in method selection or analytical implementation."
+  },
+  {
+    "objectID": "content/07-limitations.html",
+    "href": "content/07-limitations.html",
+    "title": "7. Limitations",
+    "section": "",
+    "text": "Acknowledge the constraints, biases, or limitations of the study."
+  },
+  {
+    "objectID": "content/07-limitations.html#purpose",
+    "href": "content/07-limitations.html#purpose",
+    "title": "7. Limitations",
+    "section": "",
+    "text": "Acknowledge the constraints, biases, or limitations of the study."
+  },
+  {
+    "objectID": "content/07-limitations.html#details",
+    "href": "content/07-limitations.html#details",
+    "title": "7. Limitations",
+    "section": "Details",
+    "text": "Details\n\nREPLACE THIS: Document threats to validity, potential biases in the dataset, and limitations of the methods."
+  },
+  {
+    "objectID": "content/07-limitations.html#ai-capability-checkpoint",
+    "href": "content/07-limitations.html#ai-capability-checkpoint",
+    "title": "7. Limitations",
+    "section": "AI Capability Checkpoint",
+    "text": "AI Capability Checkpoint\nOptional guidance: Reflect on AI-related risks, errors, or biases introduced."
+  },
+  {
+    "objectID": "content/05-results.html",
+    "href": "content/05-results.html",
+    "title": "5. Results",
+    "section": "",
+    "text": "Present the findings of the analysis."
+  },
+  {
+    "objectID": "content/05-results.html#purpose",
+    "href": "content/05-results.html#purpose",
+    "title": "5. Results",
+    "section": "",
+    "text": "Present the findings of the analysis."
+  },
+  {
+    "objectID": "content/05-results.html#details",
+    "href": "content/05-results.html#details",
+    "title": "5. Results",
+    "section": "Details",
+    "text": "Details\n\nREPLACE THIS: Summarize textual, tabular, and visual results."
+  },
+  {
+    "objectID": "content/05-results.html#ai-capability-checkpoint",
+    "href": "content/05-results.html#ai-capability-checkpoint",
+    "title": "5. Results",
+    "section": "AI Capability Checkpoint",
+    "text": "AI Capability Checkpoint\nOptional guidance: Reflect on any AI assistance in visualizing or interpreting these results."
+  },
+  {
+    "objectID": "content/project-summary.html",
+    "href": "content/project-summary.html",
+    "title": "Project Summary",
+    "section": "",
+    "text": "This page summarises key project metadata. Update values in project-metadata.yml and re-render.\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nProject title\nREPLACE THIS: Project Title\n\n\nLead author\nREPLACE THIS: Lead Author\n\n\nVersion\n0.1\n\n\nAI used\nNot specified\n\n\nGovernance complete\nNot specified\n\n\nReproducibility ready\nNot specified\n\n\nLast updated\nREPLACE THIS: YYYY-MM-DD\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a static summary populated at render time from project-metadata.yml."
+  },
+  {
+    "objectID": "content/project-summary.html#overview",
+    "href": "content/project-summary.html#overview",
+    "title": "Project Summary",
+    "section": "",
+    "text": "This page summarises key project metadata. Update values in project-metadata.yml and re-render.\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nProject title\nREPLACE THIS: Project Title\n\n\nLead author\nREPLACE THIS: Lead Author\n\n\nVersion\n0.1\n\n\nAI used\nNot specified\n\n\nGovernance complete\nNot specified\n\n\nReproducibility ready\nNot specified\n\n\nLast updated\nREPLACE THIS: YYYY-MM-DD\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a static summary populated at render time from project-metadata.yml."
+  },
+  {
+    "objectID": "content/06-interpretation.html",
+    "href": "content/06-interpretation.html",
+    "title": "6. Interpretation",
+    "section": "",
+    "text": "Synthesize the results concerning the original research question."
+  },
+  {
+    "objectID": "content/06-interpretation.html#purpose",
+    "href": "content/06-interpretation.html#purpose",
+    "title": "6. Interpretation",
+    "section": "",
+    "text": "Synthesize the results concerning the original research question."
+  },
+  {
+    "objectID": "content/06-interpretation.html#details",
+    "href": "content/06-interpretation.html#details",
+    "title": "6. Interpretation",
+    "section": "Details",
+    "text": "Details\n\nREPLACE THIS: Discuss what the results mean, their clinical relevance, and their broader implications."
+  },
+  {
+    "objectID": "content/06-interpretation.html#ai-capability-checkpoint",
+    "href": "content/06-interpretation.html#ai-capability-checkpoint",
+    "title": "6. Interpretation",
+    "section": "AI Capability Checkpoint",
+    "text": "AI Capability Checkpoint\nOptional guidance: Reflect on AI’s use (if any) in synthesizing conclusions."
+  },
+  {
+    "objectID": "content/08-reuse-citation.html",
+    "href": "content/08-reuse-citation.html",
+    "title": "8. Reuse & Citation",
+    "section": "",
+    "text": "Provide instructions on how to reuse this project and cite the work."
+  },
+  {
+    "objectID": "content/08-reuse-citation.html#purpose",
+    "href": "content/08-reuse-citation.html#purpose",
+    "title": "8. Reuse & Citation",
+    "section": "",
+    "text": "Provide instructions on how to reuse this project and cite the work."
+  },
+  {
+    "objectID": "content/08-reuse-citation.html#details",
+    "href": "content/08-reuse-citation.html#details",
+    "title": "8. Reuse & Citation",
+    "section": "Details",
+    "text": "Details\n\nREPLACE THIS: Outline the acceptable reuse cases and exact citation details."
+  },
+  {
+    "objectID": "content/08-reuse-citation.html#ai-capability-checkpoint",
+    "href": "content/08-reuse-citation.html#ai-capability-checkpoint",
+    "title": "8. Reuse & Citation",
+    "section": "AI Capability Checkpoint",
+    "text": "AI Capability Checkpoint\nOptional guidance: Reflect on any future AI capabilities that might enable further use of this work."
+  },
+  {
+    "objectID": "governance/risk_register.html",
+    "href": "governance/risk_register.html",
+    "title": "Risk Register",
+    "section": "",
+    "text": "Identify, track, and mitigate project risks (e.g., data privacy leaks, biased outcomes, delays).\n\n\n\nDate Identified: YYYY-MM-DD\nRisk Description: [What could go wrong]\nLikelihood: [Low/Medium/High]\nImpact: [Low/Medium/High]\nMitigation Strategy: [How this will be prevented or addressed]\n\n\n\nREPLACE THIS: Start adding identified risks below following the format above."
+  },
+  {
+    "objectID": "governance/risk_register.html#format",
+    "href": "governance/risk_register.html#format",
+    "title": "Risk Register",
+    "section": "",
+    "text": "Date Identified: YYYY-MM-DD\nRisk Description: [What could go wrong]\nLikelihood: [Low/Medium/High]\nImpact: [Low/Medium/High]\nMitigation Strategy: [How this will be prevented or addressed]\n\n\n\nREPLACE THIS: Start adding identified risks below following the format above."
+  },
+  {
+    "objectID": "governance/decision_log.html",
+    "href": "governance/decision_log.html",
+    "title": "Decision Log",
+    "section": "",
+    "text": "Track significant methodological, data, and analytical decisions that impact the research outcomes.\n\n\n\nDate: YYYY-MM-DD\nDecision: [What was decided]\nRationale: [Why it was decided, including alternatives considered]\nImpact: [Expected impact on the project]\n\n\n\nREPLACE THIS: Start adding log entries below following the format above."
+  },
+  {
+    "objectID": "governance/decision_log.html#format",
+    "href": "governance/decision_log.html#format",
+    "title": "Decision Log",
+    "section": "",
+    "text": "Date: YYYY-MM-DD\nDecision: [What was decided]\nRationale: [Why it was decided, including alternatives considered]\nImpact: [Expected impact on the project]\n\n\n\nREPLACE THIS: Start adding log entries below following the format above."
+  },
+  {
+    "objectID": "governance/model_card.html",
+    "href": "governance/model_card.html",
+    "title": "Model Card",
+    "section": "",
+    "text": "REPLACE THIS: Provide a brief description of the model, its architecture, and its primary purpose."
+  },
+  {
+    "objectID": "governance/model_card.html#overview",
+    "href": "governance/model_card.html#overview",
+    "title": "Model Card",
+    "section": "",
+    "text": "REPLACE THIS: Provide a brief description of the model, its architecture, and its primary purpose."
+  },
+  {
+    "objectID": "governance/model_card.html#intended-use",
+    "href": "governance/model_card.html#intended-use",
+    "title": "Model Card",
+    "section": "Intended Use",
+    "text": "Intended Use\n\nPrimary Use Cases: [REPLACE THIS]\nOut-of-Scope Uses: [REPLACE THIS]"
+  },
+  {
+    "objectID": "governance/model_card.html#metrics-performance",
+    "href": "governance/model_card.html#metrics-performance",
+    "title": "Model Card",
+    "section": "Metrics & Performance",
+    "text": "Metrics & Performance\n\nREPLACE THIS: List the primary evaluation metrics and the model’s performance on validation/test sets."
+  },
+  {
+    "objectID": "governance/model_card.html#training-data",
+    "href": "governance/model_card.html#training-data",
+    "title": "Model Card",
+    "section": "Training Data",
+    "text": "Training Data\n\nREPLACE THIS: Briefly describe the data used to train the model, linking to the Dataset Card if applicable."
+  },
+  {
+    "objectID": "governance/model_card.html#ethical-considerations",
+    "href": "governance/model_card.html#ethical-considerations",
+    "title": "Model Card",
+    "section": "Ethical Considerations",
+    "text": "Ethical Considerations\n\nREPLACE THIS: Detail any ethical implications, potential biases, or demographic disparities in model performance."
+  },
+  {
+    "objectID": "SPEC.html",
+    "href": "SPEC.html",
+    "title": "Specification",
+    "section": "",
+    "text": "This is the specification document outlining the structure, requirements, and principles of the Healthcare Research Object Template.\n\n\n\nReproducibility: All data, code, and decisions should be documented.\nGovernance: Risks, ethical considerations, and model details must be transparent.\nOptional AI Support: AI scaffolds are provided for reflection but are not required for functionality.\n\n\n\n\n\ncontent/: Core research narrative\nanalysis/: Analytical plans and notes\ndata/: Data dictionaries and codebooks\ngovernance/: Essential governance artefacts\nai-support/: Prompts and reflection checkpoints\ndeploy/: Publication instructions"
+  },
+  {
+    "objectID": "SPEC.html#principles",
+    "href": "SPEC.html#principles",
+    "title": "Specification",
+    "section": "",
+    "text": "Reproducibility: All data, code, and decisions should be documented.\nGovernance: Risks, ethical considerations, and model details must be transparent.\nOptional AI Support: AI scaffolds are provided for reflection but are not required for functionality."
+  },
+  {
+    "objectID": "SPEC.html#folder-structure",
+    "href": "SPEC.html#folder-structure",
+    "title": "Specification",
+    "section": "",
+    "text": "content/: Core research narrative\nanalysis/: Analytical plans and notes\ndata/: Data dictionaries and codebooks\ngovernance/: Essential governance artefacts\nai-support/: Prompts and reflection checkpoints\ndeploy/: Publication instructions"
+  }
+]

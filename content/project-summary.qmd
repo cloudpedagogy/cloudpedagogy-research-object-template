@@ -1,0 +1,21 @@
+---
+title: "Project Summary"
+---
+
+## Overview
+
+This page summarises key project metadata. Update values in `project-metadata.yml` and re-render.
+
+| Field | Value |
+|---|---|
+| Project title | {{< meta project_title >}} |
+| Lead author | {{< meta lead_author >}} |
+| Version | {{< meta project_version >}} |
+| AI used | {{< meta ai_used >}} |
+| Governance complete | {{< meta governance_complete >}} |
+| Reproducibility ready | {{< meta reproducibility_ready >}} |
+| Last updated | {{< meta last_updated >}} |
+
+::: {.callout-note}
+This is a static summary populated at render time from `project-metadata.yml`.
+:::

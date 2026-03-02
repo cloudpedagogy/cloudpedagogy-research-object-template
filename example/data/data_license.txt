@@ -1,0 +1,1 @@
+This synthetic dataset is released under the CC0 1.0 Universal Public Domain Dedication. It contains absolutely no real patient data and may be used freely for educational or testing purposes.

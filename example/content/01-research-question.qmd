@@ -1,0 +1,30 @@
+---
+title: "1. Research Question"
+---
+
+## Purpose
+State the primary research question and objectives of the project.
+
+## Details
+
+**Primary Research Question**: What patient and system factors predict the likelihood of a missed outpatient appointment in adult ambulatory care settings?
+
+**Study Aim**: 
+To develop an exploratory logistic regression model identifying the strength of association between historical missed appointments, socio-demographic indicators (deprivation quintile), appointment characteristics (lead time, appointment type), and the outcome of a missed scheduled visit.
+
+**Primary Outcome**:
+- `missed_appointment`: Binary outcome (0 = Attended or Cancelled appropriately, 1 = Did Not Attend/Missed).
+
+**Key Predictors of Interest**:
+- `age`: Patient age in years.
+- `lead_time_days`: Days between scheduling the appointment and the appointment date.
+- `appointment_type`: Type of consultation (e.g., Initial, Follow-up, Routine).
+- `previous_missed`: Count of missed appointments in the previous 12 months.
+- `deprivation_quintile`: Socio-economic status indicator (1 = Most deprived, 5 = Least deprived).
+
+***
+
+::: {.callout-note}
+## AI Capability Checkpoint
+*Awareness & Orientation:* The formulation of these variables was guided by standard health services literature. No AI systems were used to determine the primary outcome or the specific predictor variables chosen.
+:::

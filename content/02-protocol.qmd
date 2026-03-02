@@ -1,0 +1,15 @@
+---
+title: "2. Protocol"
+---
+
+## Purpose
+Detail the experimental protocol or study design.
+
+## Details
+
+> **REPLACE THIS**: Document the steps, procedures, and methodological approach planned for this project.
+
+***
+
+## AI Capability Checkpoint
+*Optional guidance: Reflect on whether AI tools were involved in designing the protocol.*

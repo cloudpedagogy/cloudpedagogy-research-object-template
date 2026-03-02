@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Healthcare Research Object Template"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - name: "CloudPedagogy"
+version: v0.1
+date-released: 2026-03-01
