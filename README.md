@@ -100,6 +100,23 @@ It serves as a working demonstration of good practice.
 
 ------------------------------------------------------------------------
 
+### Live rendered demo:
+
+http://cloudpedagogy-research-object-demo.s3-website.eu-west-2.amazonaws.com/
+
+This site shows the fully rendered research object generated from the `/example/` project in this repository.
+
+The demo allows users to explore the complete structure of a governance-ready research object, including:
+
+• research lifecycle documentation  
+• governance artefacts (dataset card, model card, risk register, decision log)  
+• optional AI capability reflection checkpoints  
+• reproducible research structure built with Quarto  
+
+The demonstration uses entirely synthetic data and represents a fictional healthcare service utilisation study.
+
+------------------------------------------------------------------------
+
 ## AI Capability Layer (Optional)
 
 This template includes optional AI Capability Checkpoints aligned to a
