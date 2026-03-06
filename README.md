@@ -115,6 +115,8 @@ The demo allows users to explore the complete structure of a governance-ready re
 
 The demonstration uses entirely synthetic data and represents a fictional healthcare service utilisation study.
 
+[![Research Object Demo](docs/research-object-demo.png)](http://cloudpedagogy-research-object-demo.s3-website.eu-west-2.amazonaws.com/)
+
 ------------------------------------------------------------------------
 
 ## AI Capability Layer (Optional)
