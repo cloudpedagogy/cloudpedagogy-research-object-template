@@ -25,7 +25,7 @@ structure.
 
 ---
 
-## 🌐 Live Application
+## 🌐 Live Hosted Version
 
 👉 http://cloudpedagogy-research-object-demo.s3-website.eu-west-2.amazonaws.com/
 
