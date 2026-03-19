@@ -23,6 +23,12 @@ This is not simply a writing template.\
 It encodes research transparency and governance directly into project
 structure.
 
+---
+
+## 🌐 Live Application
+
+👉 http://cloudpedagogy-research-object-demo.s3-website.eu-west-2.amazonaws.com/
+
 ------------------------------------------------------------------------
 
 ## What Problem This Solves
@@ -100,11 +106,10 @@ It serves as a working demonstration of good practice.
 
 ------------------------------------------------------------------------
 
-### Live rendered demo:
+### Screenshot
 
-http://cloudpedagogy-research-object-demo.s3-website.eu-west-2.amazonaws.com/
 
-This site shows the fully rendered research object generated from the `/example/` project in this repository.
+This screenshot shows the fully rendered research object generated from the `/example/` project in this repository.
 
 The demo allows users to explore the complete structure of a governance-ready research object, including:
 
