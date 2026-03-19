@@ -214,16 +214,29 @@ infrastructure into research infrastructure.
 It demonstrates how governance and AI capability principles can be
 operationalised in research practice.
 
-------------------------------------------------------------------------
+---
 
-## Licence
+## Disclaimer
 
--   Code structure: MIT
--   Documentation content: see licence file
+This repository contains exploratory, framework-aligned tools developed for reflection, learning, and discussion.
 
-------------------------------------------------------------------------
+These tools are provided **as-is** and are not production systems, audits, or compliance instruments. Outputs are indicative only and should be interpreted in context using professional judgement.
 
-## Version
+All applications are designed to run locally in the browser. No user data is collected, stored, or transmitted.
 
-v0.1 --- Synthetic demonstration release\
-This is an evolving infrastructure pattern.
+---
+
+## Licensing & Scope
+
+This repository contains open-source software released under the MIT License.
+
+CloudPedagogy frameworks and related materials are licensed separately and are not embedded or enforced within this software.
+
+---
+
+## About CloudPedagogy
+
+CloudPedagogy develops open, governance-credible resources for building confident, responsible AI capability across education, research, and public service.
+
+- Website: https://www.cloudpedagogy.com/
+- Framework: https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework
