@@ -31,6 +31,68 @@ structure.
 
 ------------------------------------------------------------------------
 
+## 🖼️ Screenshot
+
+This screenshot shows the fully rendered research object generated from the `/example/` project in this repository.
+
+The demo allows users to explore the complete structure of a governance-ready research object, including:
+
+• research lifecycle documentation  
+• governance artefacts (dataset card, model card, risk register, decision log)  
+• optional AI capability reflection checkpoints  
+• reproducible research structure built with Quarto  
+
+The demonstration uses entirely synthetic data and represents a fictional healthcare service utilisation study.
+
+[![Research Object Demo](docs/research-object-demo.png)](http://cloudpedagogy-research-object-demo.s3-website.eu-west-2.amazonaws.com/)
+
+
+---
+## 🛠️ Getting Started
+
+### Clone the repository
+
+```bash
+git clone [repository-url]
+cd [repository-folder]
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run locally
+
+```bash
+npm run dev
+```
+
+Once running, your terminal will display a local URL (often http://localhost:5173). Open this in your browser to use the application.
+
+### Build for production
+
+```bash
+npm run build
+```
+
+The production build will be generated in the `dist/` directory and can be deployed to any static hosting service.
+
+---
+
+## 🔐 Privacy & Security
+
+- **Fully local**: All data remains in the user's browser  
+- **No backend**: No external API calls or database storage  
+- **Privacy-preserving**: No tracking or data exfiltration  
+- Suitable for use in sensitive organisational and governance contexts  
+
+
+
+
+------------------------------------------------------------------------
+
 ## What Problem This Solves
 
 Healthcare research projects are often fragmented:
@@ -104,23 +166,6 @@ This example:
 
 It serves as a working demonstration of good practice.
 
-------------------------------------------------------------------------
-
-### Screenshot
-
-
-This screenshot shows the fully rendered research object generated from the `/example/` project in this repository.
-
-The demo allows users to explore the complete structure of a governance-ready research object, including:
-
-• research lifecycle documentation  
-• governance artefacts (dataset card, model card, risk register, decision log)  
-• optional AI capability reflection checkpoints  
-• reproducible research structure built with Quarto  
-
-The demonstration uses entirely synthetic data and represents a fictional healthcare service utilisation study.
-
-[![Research Object Demo](docs/research-object-demo.png)](http://cloudpedagogy-research-object-demo.s3-website.eu-west-2.amazonaws.com/)
 
 ------------------------------------------------------------------------
 
@@ -143,48 +188,6 @@ documentation where AI tools are used.\
 Human responsibility remains central.
 
 ---
-## 🛠️ Getting Started
-
-### Clone the repository
-
-```bash
-git clone [repository-url]
-cd [repository-folder]
-```
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Run locally
-
-```bash
-npm run dev
-```
-
-Once running, your terminal will display a local URL (often http://localhost:5173). Open this in your browser to use the application.
-
-### Build for production
-
-```bash
-npm run build
-```
-
-The production build will be generated in the `dist/` directory and can be deployed to any static hosting service.
-
----
-
-## 🔐 Privacy & Security
-
-- **Fully local**: All data remains in the user's browser  
-- **No backend**: No external API calls or database storage  
-- **Privacy-preserving**: No tracking or data exfiltration  
-- Suitable for use in sensitive organisational and governance contexts  
-
----
-
 ## Detailed User Guide
 
 For a step-by-step working guide, see:
