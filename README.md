@@ -137,28 +137,48 @@ These sections are designed to support transparent, proportionate
 documentation where AI tools are used.\
 Human responsibility remains central.
 
-------------------------------------------------------------------------
+---
+## 🛠️ Getting Started
 
-## How to Use
+### Clone the repository
 
-1.  Fork or clone this repository.
-2.  Edit content pages under `/content/`.
-3.  Complete governance artefacts under `/governance/`.
-4.  Fill AI Capability Checkpoints if applicable.
-5.  Render using:
-
-``` bash
-quarto render
+```bash
+git clone [repository-url]
+cd [repository-folder]
 ```
 
-To render the example:
+### Install dependencies
 
-``` bash
-cd example
-quarto render
+```bash
+npm install
 ```
 
-------------------------------------------------------------------------
+### Run locally
+
+```bash
+npm run dev
+```
+
+Once running, your terminal will display a local URL (often http://localhost:5173). Open this in your browser to use the application.
+
+### Build for production
+
+```bash
+npm run build
+```
+
+The production build will be generated in the `dist/` directory and can be deployed to any static hosting service.
+
+---
+
+## 🔐 Privacy & Security
+
+- **Fully local**: All data remains in the user's browser  
+- **No backend**: No external API calls or database storage  
+- **Privacy-preserving**: No tracking or data exfiltration  
+- Suitable for use in sensitive organisational and governance contexts  
+
+---
 
 ## Detailed User Guide
 
@@ -198,7 +218,7 @@ operationalised in research practice.
 
 ## Licence
 
--   Code structure: MIT\
+-   Code structure: MIT
 -   Documentation content: see licence file
 
 ------------------------------------------------------------------------
