@@ -97,17 +97,17 @@ The production build will be generated in the `dist/` directory and can be deplo
 
 Healthcare research projects are often fragmented:
 
--   Manuscript in one place\
--   Code in another\
--   Governance documentation elsewhere\
+-   Manuscript in one place
+-   Code in another
+-   Governance documentation elsewhere
 -   AI usage inconsistently disclosed
 
 This template addresses:
 
--   Structural fragmentation\
--   Reactive governance\
--   Opaque AI use\
--   Reproducibility gaps\
+-   Structural fragmentation
+-   Reactive governance
+-   Opaque AI use
+-   Reproducibility gaps
 -   Inconsistent documentation practices
 
 It transforms a research project into a coherent, version-controlled
@@ -166,6 +166,25 @@ This example:
 
 It serves as a working demonstration of good practice.
 
+
+------------------------------------------------------------------------
+
+### Live rendered demo:
+
+http://cloudpedagogy-research-object-demo.s3-website.eu-west-2.amazonaws.com/
+
+This site shows the fully rendered research object generated from the `/example/` project in this repository.
+
+The demo allows users to explore the complete structure of a governance-ready research object, including:
+
+• research lifecycle documentation  
+• governance artefacts (dataset card, model card, risk register, decision log)  
+• optional AI capability reflection checkpoints  
+• reproducible research structure built with Quarto  
+
+The demonstration uses entirely synthetic data and represents a fictional healthcare service utilisation study.
+
+[![Research Object Demo](docs/research-object-demo.png)](http://cloudpedagogy-research-object-demo.s3-website.eu-west-2.amazonaws.com/)
 
 ------------------------------------------------------------------------
 
