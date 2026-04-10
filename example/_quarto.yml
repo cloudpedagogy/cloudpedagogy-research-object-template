@@ -8,9 +8,11 @@ metadata-files:
 website:
   title: "Missed Appointment Study"
   navbar:
+    title: "CloudPedagogy"
+    href: "https://www.cloudpedagogy.com/"
     left:
       - href: index.qmd
-        text: Home
+        text: "Missed Appointment Study"
       - text: "Content"
         menu:
           - href: content/01-research-question.qmd
@@ -71,10 +73,12 @@ website:
             text: "GitHub Pages"
           - href: deploy/troubleshooting.md
             text: "Troubleshooting"
+  page-footer:
+    center: "CloudPedagogy · Governance-ready AI and curriculum systems"
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, cloudpedagogy.scss]
     toc: true
 
 execute:

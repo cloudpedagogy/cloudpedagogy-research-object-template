@@ -1,0 +1,194 @@
+/*-- scss:defaults --*/
+$body-bg: #FFFFFF;
+$body-color: #111111;
+$navbar-bg: #FFFFFF;
+$navbar-fg: #111111;
+$sidebar-bg: #FFFFFF;
+$sidebar-fg: #111111;
+$border-color: #E5E7EB;
+$link-color: #111111;
+$selection-bg: rgba(0, 0, 0, 0.1);
+$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$border-radius: 6px;
+
+/*-- scss:rules --*/
+
+:root {
+  --color-text-primary: #111111;
+  --color-text-secondary: #555555;
+
+  --color-border-default: #e0e0e0;
+  --color-border-strong: #000000;
+
+  --font-size-body: 14px;
+  --font-size-meta: 13px;
+  --font-size-small: 12px;
+
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+}
+
+/* Global Layout */
+#quarto-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Navbar customization */
+.navbar {
+  border-bottom: 1px solid $border-color;
+  box-shadow: none !important;
+  font-size: 0.9rem;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+/* Sidebar customization */
+.quarto-sidebar {
+  border-right: 1px solid $border-color;
+  padding-top: 2rem;
+}
+
+.sidebar-title {
+  font-weight: 600 !important;
+  color: #111111 !important;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  color: #111111;
+  font-weight: 600;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+/* Callout / Card customization */
+.callout {
+  border: 1px solid $border-color !important;
+  border-radius: $border-radius !important;
+  background-color: #FFFFFF !important;
+  box-shadow: none !important;
+  color: #111111 !important;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+}
+
+.callout-header {
+  background-color: transparent !important;
+  border-bottom: 1px solid $border-color !important;
+  color: #111111 !important;
+  font-weight: 600 !important;
+}
+
+.callout-icon-container {
+  display: none !important; /* Remove colored icons as per request */
+}
+
+/* Tags / Labels styling */
+.badge {
+  background-color: transparent !important;
+  color: #444444 !important;
+  border: 1px solid $border-color !important;
+  border-radius: 4px;
+  font-weight: 400;
+  padding: 0.2rem 0.4rem;
+  font-size: var(--font-size-meta);
+}
+
+/* Button styling */
+.btn-primary {
+  background-color: #111111 !important;
+  color: #FFFFFF !important;
+  border: none !important;
+  border-radius: $border-radius;
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+}
+
+.btn-secondary {
+  background-color: #FFFFFF !important;
+  color: #111111 !important;
+  border: 1px solid $border-color !important;
+  border-radius: $border-radius;
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+}
+
+/* Table styling */
+.table {
+  background-color: #FFFFFF;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table th, .table td {
+  border-top: 1px solid $border-color;
+  padding: 0.75rem;
+  color: #444444;
+}
+
+.table thead th {
+  border-bottom: 2px solid $border-color;
+  color: #111111;
+  font-weight: 600;
+}
+
+/* Footer styling */
+.page-footer {
+  border-top: 1px solid $border-color;
+  padding: 2rem 0;
+  color: #555555 !important;
+  font-size: 0.85rem;
+  background-color: #FFFFFF;
+}
+
+.footer-items {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+/* Remove common Quarto decorations */
+.quarto-title-meta-heading {
+  color: #555555;
+}
+
+.quarto-secondary-nav {
+  border-bottom: 1px solid $border-color !important;
+}
+
+/* TOC styling */
+#quarto-toc-sidebar {
+  border-left: 1px solid $border-color;
+}
+
+.sidebar-navigation .nav-page .nav-link {
+  color: #444444;
+}
+
+.sidebar-navigation .nav-page .nav-link.active {
+  color: #111111;
+  font-weight: 600;
+}
+
+/* Link Visibility & Focus States */
+a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+:focus-visible {
+  outline: 2px solid rgba(0, 0, 0, 0.2);
+  outline-offset: 2px;
+}

@@ -6,6 +6,7 @@ Welcome to the **Missed Appointment Study** Research Object.
 
 This is a synthetic healthcare research project demonstrating the use of the Healthcare Research Object Template.
 
+::: {.card}
 ## Study Overview
 This synthetic study investigates the factors associated with missed outpatient appointments within a generic healthcare setting. The goal is to identify predictors such as age, lead time, appointment type, previous missed appointments, and socio-economic deprivation to better understand service utilisation patterns.
 
@@ -15,6 +16,7 @@ Use the navigation bar to access:
 - **Data**: Our data dictionary describing the synthetic variables.
 - **Governance**: Important transparent documentation, including dataset and model cards.
 - **AI Support**: Our reflections on the use of AI tools in this synthetic project.
+:::
 
 ***
 
