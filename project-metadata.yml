@@ -4,4 +4,25 @@ project_version: "0.1"
 ai_used: "Not specified"
 governance_complete: "Not specified"
 reproducibility_ready: "Not specified"
-last_updated: "REPLACE THIS: YYYY-MM-DD"
+last_updated: "2026-04-10"
+
+# AI Governance Pillar
+ai_governance:
+  scoping_health: "Not assessed"
+  permitted_uses: []
+  not_permitted: []
+  policy_summary: "No policy summary declared."
+
+# Human Review Pillar
+human_review:
+  status: "Pending"
+  reviewer: "None"
+  date: "N/A"
+  decisions_captured: 0
+
+# Audit Trail Pillar
+audit_trail:
+  source_tool: "Manual"
+  builder_version: "N/A"
+  transformation_integrity: "N/A"
+  manifest_sha256: "N/A"

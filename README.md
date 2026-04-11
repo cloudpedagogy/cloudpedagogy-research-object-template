@@ -1,7 +1,25 @@
 # CloudPedagogy Research Object Template
 
-**Governance-Ready, AI-Aware Healthcare Research Infrastructure
-(Quarto-Based)**
+**Governance-Ready, AI-Aware Healthcare Research Infrastructure (Quarto-Based)**
+
+## 🔗 Role in the CloudPedagogy Ecosystem
+
+**Phase:** Phase 5 — Infrastructure / Meta Layer
+
+**Role:**
+Provides a governance-aware publication layer for creating reproducible, structured research objects and reports in HTML and PDF formats.
+
+**Upstream Inputs:**
+Audit trails and risk metadata from the **Decision Record**, **Risk Scanner**, and **Integration SDK**.
+
+**Downstream Outputs:**
+Generates high-fidelity, auditable public or institutional research outputs for evidence bundles and publication.
+
+**Does NOT:**
+- Perform active data analysis or simulation.
+- Manage live user workflows or record live decisions (this is for the Studio/Decision Record).
+
+For a full system overview, see: [SYSTEM_OVERVIEW.md](../SYSTEM_OVERVIEW.md)
 
 ------------------------------------------------------------------------
 

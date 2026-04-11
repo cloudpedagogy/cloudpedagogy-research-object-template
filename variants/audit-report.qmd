@@ -1,0 +1,31 @@
+---
+title: "Governance Audit Report"
+format:
+  pdf:
+    documentclass: report
+    toc: false
+---
+
+# Executive Summary
+
+**Project**: {{< meta project_title >}}  
+**Version**: {{< meta project_version >}}  
+**Status**: {{< meta governance_complete >}}
+
+## 1. Governance Health
+The automated self-audit score for this syllabus is **{{< meta ai_governance.scoping_health >}}**.
+
+## 2. Policy Summary
+{{< meta ai_governance.policy_summary >}}
+
+# Audit Trail
+
+| Field | Value |
+|-------|-------|
+| Source Tool | {{< meta audit_trail.source_tool >}} |
+| Builder Version | {{< meta audit_trail.builder_version >}} |
+| Transformation Integrity | {{< meta audit_trail.transformation_integrity >}} |
+| Manifest SHA256 | {{< meta audit_trail.manifest_sha256 >}} |
+
+---
+*This report was automatically generated from ecosystem metadata.*
